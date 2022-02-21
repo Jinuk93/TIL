@@ -15,7 +15,7 @@ public class MainStringArray2 {
 		int num1 = Integer.parseInt(sTrNum1);
 		int num2 = Integer.parseInt(sTrNum2);
 		
-		int result = num1 + num2;
+		int result = num1 + num2; 
 		System.out.println(num1 + " + " + num2 + " = " + result);
 	}
 }
