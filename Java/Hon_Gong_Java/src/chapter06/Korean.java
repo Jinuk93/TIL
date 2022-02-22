@@ -27,8 +27,6 @@ public class Korean {
 	
 	그리고 this를 필드명 앞에 'this.name = name'을 쓰는 이유는
 	매개변수의 우선순위가 더 높기 때문에, 순위가 낮은 필드명 앞에 붙인다
-	
-	
 	 */	
 	
 	}
