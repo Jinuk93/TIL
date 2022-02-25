@@ -328,6 +328,7 @@ System.out.print(”ABC”);
   "오류"가 발생 할 수 있다. 
   따라서, throws Exception 등의 "예외처리"를 통해서, 예외를 미리 방지한다	
 ``
+📌
 ### Scanner
 
 **System.in.read()의 단점은 키코드를 하나씩 읽기 때문에, 2개 이상의 키가 조합된 한글을 읽을 수** 
@@ -338,15 +339,15 @@ System.out.print(”ABC”);
 
    ***Scanner scanner = new Scanner(System.in);***
 
-//Scanner 변수 선언 및 생성
+Scanner 변수 선언 및 생성
 
    ***String inputData = scanner.nextLine();***
 
-// ***scanner.nextLine 은 Enter치기전(앞,좌측)까지를 읽어라!***
+***scanner.nextLine 은 Enter치기전(앞,좌측)까지를 읽어라!***
 
 ***//읽은 데이터값을 inputData라는 String 타입의 변수(명)에 값을 저장***
 
-[ScannerExample](https://www.notion.so/ScannerExample-70de061b3a7749b1ae26e6ad18bd01df)
+
 
 📌
 ***키워드로 끝내는 핵심 포인트***
@@ -375,4 +376,4 @@ System.out.print(”ABC”);
 
     - **System.in.read()에서의 단점들을 보완해서 나온 기능**
 
-    -‘통 문자열’, ‘2개 이상의 조합된 한글’을 읽을 수 **있다**
+    -   ‘통 문자열’, ‘2개 이상의 조합된 한글’을 읽을 수 **있다**
