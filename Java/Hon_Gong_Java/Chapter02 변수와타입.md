@@ -69,16 +69,12 @@
     
     int result = value + 10;
     
-    [VariableInitializationExample](https://www.notion.so/VariableInitializationExample-1d3df844d65e4a35b70d1f0a31089239)
     
 
 - 변수 사용
     
     : 변수의 값을 이용해서, 출력문이나 연산식을 수행하는 것
     
-    [VariavleUseExample](https://www.notion.so/VariavleUseExample-8ac54cb971f04e3eadeb9107c81e8bc9)
-    
-    [VariableExchangeExample](https://www.notion.so/VariableExchangeExample-ba8dbd7f27f54222a60d9714ecb27a0d)
     
 
 - 변수 사용범위
@@ -87,11 +83,7 @@
     
     - 메소드 블록 내에서 선언된 변수를 로컬 변수(지역변수)라고 한다
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fc82694-c97a-4013-bed6-3372bc5f847a/Untitled.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc89ce60-8640-47e9-a444-32f970e02a8a/Untitled.png)
-    
-
 - 키워드로 끝내는 핵심 포인트
     - 변수 : 값을 저장할 수 있는 메모리 번지에 붙인 이름. 변수를 통해 프로그램은 메모리 번지에 값을 저장하고 읽을 수 있다
     - 변수 선언 : 변수에 어떤 타입의 데이터를 저장할지 그리고 변수 이름이 무엇인지를 결정하는 것
@@ -227,7 +219,6 @@
     System.out.println(charValue);    // "A"가 출력                                                                                                                             char charValue = (char) intValue; // 강제 타입변환                                                                    System.out.println(charValue); //”A”가 출력
     ```
     
-    [CastingExample](https://www.notion.so/CastingExample-99029678665e4c2d9441154b9f0c3754)
     
 
 ---
@@ -252,7 +243,6 @@ int y = 20;
 int result = x+y; 
 ```
 
-[ByteOperationExample](https://www.notion.so/ByteOperationExample-f9caeaddae864bd685a31ecb77ace3cc)
 
 ## 실수 연산에서의 자동 타입변환
 
@@ -343,9 +333,6 @@ System.out.print(”ABC”);
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77081d2c-103d-469b-b7b6-78470e415347/Untitled.png)
 
-[KeycodeExample](https://www.notion.so/KeycodeExample-63e1c22ead3741b6bbacc1d2df1ef96f)
-
-[QStopExample](https://www.notion.so/QStopExample-bba6844da0b04c18b1a07082ea1736ca)
 
 📌
 
@@ -367,7 +354,6 @@ System.out.print(”ABC”);
 
 ***//읽은 데이터값을 inputData라는 String 타입의 변수(명)에 값을 저장***
 
-[ScannerExample](https://www.notion.so/ScannerExample-70de061b3a7749b1ae26e6ad18bd01df)
 
 📌
 ***키워드로 끝내는 핵심 포인트***
