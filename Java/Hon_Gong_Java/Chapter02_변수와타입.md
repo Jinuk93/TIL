@@ -328,4 +328,51 @@ System.out.print(”ABC”);
   "오류"가 발생 할 수 있다. 
   따라서, throws Exception 등의 "예외처리"를 통해서, 예외를 미리 방지한다	
 ``
+### Scanner
 
+**System.in.read()의 단점은 키코드를 하나씩 읽기 때문에, 2개 이상의 키가 조합된 한글을 읽을 수** 
+
+**없다는 것입니다. 그리고 통 문자열을 읽지 못합니다. 이러한 단점을 보완하기 위해서**
+
+**자바에서 Scanner 클래스를 제공하고 있습니다**
+
+   ***Scanner scanner = new Scanner(System.in);***
+
+//Scanner 변수 선언 및 생성
+
+   ***String inputData = scanner.nextLine();***
+
+// ***scanner.nextLine 은 Enter치기전(앞,좌측)까지를 읽어라!***
+
+***//읽은 데이터값을 inputData라는 String 타입의 변수(명)에 값을 저장***
+
+[ScannerExample](https://www.notion.so/ScannerExample-70de061b3a7749b1ae26e6ad18bd01df)
+
+📌
+***키워드로 끝내는 핵심 포인트***
+
+***출력장치 == “모니터”***
+
+- ***System.out.println() :***
+
+    - 괄호안의 매개값을 출력하고, 행을 바꾼다
+
+- ***System.out.print() :***
+
+    - 괄호안의 매개값을 출력한다
+
+- ***System.out.printf() : *약간 “f”가 강제성을 띄고있는 것 같다. git bash 강제 push 할때도 쓰임(?)***
+
+    - 괄호에 주어진 형식 그대로 출력한다
+
+***입력장치 == “키보드”***
+
+- ***System.in.read() :***
+
+    - 키보드에서 입력된 키코드를 읽는다.  ‘통 문자열’, ‘2개 이상의 조합된 한글’을 읽을 수 **없다**
+
+- ***Scanner :***
+
+    - **System.in.read()에서의 단점들을 보완해서 나온 기능**
+
+    -‘통 문자열’, ‘2개 이상의 조합된 한글’을 읽을 수 **있다**
