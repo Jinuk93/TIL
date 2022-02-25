@@ -1,4 +1,4 @@
-# 2강. 변수와 타입
+# Chapter02. 변수와 타입
 
 ### 변수
 
@@ -109,7 +109,6 @@
 
 - 소스코드에서 프로그래머에 의해 직접 입력된 값을 리터럴(literal)이라고 부른다
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/596e7d9f-c455-40cf-8932-4d62764d47d3/Untitled.png)
 
 ### 문법
 
@@ -252,13 +251,11 @@ int result = x+y;
 
 **아래의 ‘실수 리터럴 연산’을 참조**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7bc9dcd-f647-40c6-9597-c7d04fbaf463/Untitled.png)
 
 ---
 
 ### +(플러스) 연산에서의 문자열 자동 타입변환
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/539a8331-7419-458a-9d15-99e29c8df23c/Untitled.png)
 
 ****특정 부분을 우선 연산하고 싶은 경우***
 
@@ -272,14 +269,12 @@ String str = "1" + (2 + 3); => String str = "1" + 5; => String str = "15";
 
 *Java가 제공해주는 API를 통해서, 문자열을 기본타입으로 강제타입 변환을 시킬 수 있다
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/461d8725-1831-469f-a473-1ac39ecd02a3/Untitled.png)
 
 ```java
 String str = "1a";
 int value = Integer.parseInt(str); //NumberFormatException 발생
 ```
 
-[PrimitiveAndStringConversionExample](https://www.notion.so/PrimitiveAndStringConversionExample-efe11df099594227883f9a04f34c740e)
 
 📌
 
@@ -331,7 +326,6 @@ System.out.print(”ABC”);
   따라서, throws Exception 등의 "예외처리"를 통해서, 예외를 미리 방지한다
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77081d2c-103d-469b-b7b6-78470e415347/Untitled.png)
 
 
 📌
