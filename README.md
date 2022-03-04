@@ -6,5 +6,4 @@
 
 ## DB
 - MySQL
-
-- [혼자 공부하는 SQL](https://github.com/Jinuk93/TIL/blob/master/DB/MySQL/Hon_Gong_SQL/README.md)
+-- [혼자 공부하는 SQL](https://github.com/Jinuk93/TIL/blob/master/DB/MySQL/Hon_Gong_SQL/README.md)
