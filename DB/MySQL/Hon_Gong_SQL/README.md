@@ -4,4 +4,4 @@
 
 # Table of Content
 
-- [ch02 실전용SQL 맛보기](https://github.com/Jinuk93/TIL/blob/master/Java/Hon_Gong_Java/docs/ch02_%EB%B3%80%EC%88%98%EC%99%80%ED%83%80%EC%9E%85.md)
+- [ch02 실전용SQL 맛보기](https://github.com/Jinuk93/TIL/blob/master/DB/MySQL/Hon_Gong_SQL/docs/ch02_SQL.md)
