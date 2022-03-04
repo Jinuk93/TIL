@@ -8,13 +8,13 @@
 
 **대표적으로는 폭포수 모델(waterfall model)을 사용하며, 데이터베이스 모델링은 폭포수 모델의 업무 분석과 시스템 설계 단계에 해당합니다. 이 단계를 거치면 가장 중요한 데이터베이스 개체인 테이블 구조가 결정되는 것입니다.**
 
-![Untitled](ch02%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%208ef0c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/156728558-cac485b7-ee66-412f-a130-43d08471652b.png)
 
 - **데이터모델링 : 현실세계의 사물이나 작업을 DBMS의 데이터베이스 개체로 옮기기 위한 과정**
 
 **즉, 각각의 테이블이라는 개체로 변환하는 것을 말한다**
 
-![Untitled](ch02%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%208ef0c/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/156728610-eb53dc40-6220-4133-9cf6-eca6aa09aea8.png)
 
 ---
 
@@ -24,7 +24,8 @@
 
 **각 단계가 폭포가 떨어지듯 진행되기 때문에 붙여진 이름이다**
 
-![Untitled](ch02%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%208ef0c/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/80089860/156728652-bf37e3c7-df85-49aa-9be6-712dbdab44d6.png)
+
 
 - **프로젝트 계획 : 슈퍼마켓의 물건들을 온라인으로 판매하기 위한 계획 단계**
 - **업무 분석 : 슈퍼마켓에서 업무가 어떻게 돌아가는지 파악하는 것입니다. 예로 물건은 어디서 들어오는지, 물건은 어떻게 계산하는지, 재고는 어떻게 관리하는지 드으이 업무에 대해서 정리하는 단계**
@@ -35,7 +36,7 @@
 
 ---
 
-![Untitled](ch02%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%208ef0c/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/80089860/156728708-3d0962df-25ed-4841-9fac-f0ec27284184.png)
 
 ### 용어
 
@@ -54,7 +55,7 @@
 ### 데이터베이스 구축절차
 
 <aside>
-📖 **데이터베이스 만들기 → 테이블 만들기 → 데이터 입력/수정/삭제 → 데이터 조회/활용**
+📖 데이터베이스 만들기 → 테이블 만들기 → 데이터 입력/수정/삭제 → 데이터 조회/활용
 
 </aside>
 
@@ -82,7 +83,7 @@
 - **기본 키 : 열에 지정하며, 각 행을 구분하는 유일한 값**
 
 <aside>
-📖 **INSERT : 입력 /  UPDATE : 수정  /  SELECT : 조회  /  WHERE : 조건**
+📖 INSERT : 입력 /  UPDATE : 수정  /  SELECT : 조회  /  WHERE : 조건
 
 </aside>
 
@@ -90,14 +91,14 @@
 
 ### 데이터베이스 개체
 
-![Untitled](ch02%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%208ef0c/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/80089860/156728811-32cdd750-23b6-4b1b-a9e5-8460a3c99e5a.png)
 
 ### 인덱스
 
 **데이터를 조회할 때, 테이블에 데이터가 적다면 결과가 금방 나오지만 데이터가 많아질수록 결과가 나오는 시간이 많이 소요됩니다. 인덱스는 이런 경우의 결과가 나오는 시간을 대폭 줄여줍니다**
 
 <aside>
-📖 **CREATE INDEX idx_member_name ON member(member_name);**
+📖 CREATE INDEX idx_member_name ON member(member_name);
 
 </aside>
 
@@ -114,7 +115,8 @@
 **다만 뷰는 실제 데이터가 없으며, 바로가기 아이콘처럼 테이블에 링크된 개념으로 본다**
 
 <aside>
-📖 **CREATE VIEW member_view AS SELECT * FROM member;**
+	
+📖 CREATE VIEW member_view AS SELECT * FROM member;
 
 </aside>
 
@@ -124,7 +126,7 @@
 
 **MySQL에서 제공하는 프로그래밍 기능으로, 여러 개의 SQL문을 하나로 묶어서 편리하게 사용할 수 있다.**
 
-![Untitled](ch02%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%208ef0c/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/80089860/156728871-ce63d7c1-a570-4b66-b155-ce8fa64cabe7.png)
 
 **하고 실행**
 
