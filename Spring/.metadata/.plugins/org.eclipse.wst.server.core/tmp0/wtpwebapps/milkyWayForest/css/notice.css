@@ -1,0 +1,403 @@
+@charset "UTF-8";
+
+/* 게시판 공통 사항 */
+#eventBoardForm, #eventViewForm, #faqBoardForm, #noticeBoardForm, #noticeBoardViewForm, #qnaBoardForm {
+	margin: 0;
+	padding: 0;
+}
+#eventBoardFormDiv, #eventViewFormDiv, #faqBoardFormDiv, 
+#qnaBoardWriteDiv, #qnaBoardFormDiv, #noticeBoardViewFormDiv,
+#noticeBoardFormDiv {
+	width: 60%;	
+	font-size: 14px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+}
+#eventBoardFormDiv section, #eventViewFormDiv section, #faqBoardFormDiv section, 
+#qnaBoardWriteDiv section, #qnaBoardFormDiv section, #noticeBoardViewFormDiv section,
+#noticeBoardFormDiv section {
+	margin: 120px 0 100px 0;
+}
+#eventBoardForm legend, #noticeBoardViewForm legend, #eventViewForm legend, #faqBoardForm legend, #noticeBoardForm legend, #qnaBoardForm legend {
+	font-size: 35px;
+	font-weight: bold;
+}
+#boardPagingDiv {
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#currentPaging {
+	border: 1px solid #ddd;
+	font-weight: bold;
+	color: #106030;
+	padding: 3px 8px;
+	cursor: pointer;
+}
+#paging {
+	padding: 3px 8px;
+	cursor: pointer;
+}
+
+
+/* 게시판 위치 표시 */
+#eventBoardNav, #noticeBoardNav, #noticeBoardViewNav, #eventViewBoardNav, #faqBoardNav, #qnaBoardNav {
+	margin-bottom: 30px;
+}
+#eventBoardNav div, #eventViewBoardNav div, #noticeBoardNav div, #noticeBoardViewNav div, #faqBoardNav div, #qnaBoardNav div {
+	float: right;
+	color: #777;
+	margin-top: 10px;
+}
+#eventBoardNav a, #noticeBoardNav a, #noticeBoardViewNav a, #eventViewBoardNav a, #faqBoardNav a, #qnaBoardNav a {
+	text-decoration: none;
+	color: #777;
+}
+/* #eventBoardNav a img, #noticeBoardNav a img, #eventViewBoardNav a img, #faqBoardNav a img, #qnaBoardNav a img {
+	margin-bottom: 5px;
+} */
+#eventBoardNav a:last-child, #noticeBoardNav a:last-child, #noticeBoardViewNav a:last-child, #eventViewBoardNav a:last-child, #faqBoardNav a:last-child, #qnaBoardNav a:last-child {
+	font-weight: bold;
+}
+
+
+
+/* 공지사항 리스트 */
+#noticeBoardForm #noticeBoardSearchDiv {
+	background: #eee;
+	height: 80px;
+}
+#noticeBoardForm #noticeBoardSearchDiv div {
+	float: right;
+	padding-right: 30px;
+	margin-top: 20px;
+}
+#noticeBoardForm #noticeBoardSearchDiv #noticeBoardSearch {
+	border: 1px solid #aaa;
+	height: 40px;
+	margin-right: 5px;
+}
+#noticeBoardForm #noticeBoardSearchDiv #noticeBoardSearchBtn {
+	height: 40px;
+	padding: 5px 20px;
+	margin-bottom: 5px;
+	background: #154520;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+}
+#noticeBoardForm #noticeBoardTable th {
+	text-align: center;
+}
+#noticeBoardForm #noticeBoardTable {
+	border-bottom: 1px solid #ddd;
+}
+/* #noticeBoardForm .noticeSubject:link { color: black; text-decoration: none; } */
+/* #noticeBoardForm .noticeSubject:visited { color: black; text-decoration: none; } */
+#noticeBoardForm .noticeSubject:hover { color: #154520; text-decoration: underline; }
+#noticeBoardForm .noticeSubject:active { color: black; text-decoration: none; }
+
+
+/* 공지사항 글내용 */
+#noticeBoardViewForm #noticeBoardViewDiv {
+	margin-top: 50px;
+}
+#noticeBoardViewForm #noticeSubject {
+	border-top : 1px solid #222;
+	border-bottom : 1px solid #222;
+	font-size: 15pt;
+	font-weight: bold;
+	padding: 30px 15px;
+	margin: 20px 0; 
+}
+#noticeBoardViewForm #noticeDate {
+	font-size: 10pt;
+	font-weight: normal;
+	padding: 5px;
+	color: #999;
+	float: right;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+#noticeBoardViewForm #noticeContent {
+	border-bottom : 1px solid #999;
+	margin: 20px 0;
+	padding: 50px 15px;
+	font-size: 10pt;
+}
+#noticeBoardViewForm #noticeContent img {
+	margin: 50px 0 0 0;
+}
+#noticeBoardViewForm #noticeListBtnDiv {
+	text-align: right;
+}
+#noticeListBtnDiv #noticeListBtn {
+	padding: 8px 30px;
+}
+
+/* 이벤트 리스트 */
+#eventBoardForm #eventBoardNowDiv, #eventBoardForm #eventBoardEndDiv {
+	background: #eee;
+	font-size: 15pt;
+	font-weight: bold;
+	padding: 20px 30px;
+}
+
+#eventBoardForm #eventBoardNowBody, #eventBoardForm #eventBoardEndBody {
+	display: grid;
+	grid-template-columns: 23% 23% 23% 23%;
+	grid-column-gap: 2%;
+	row-gap: 1%;
+	width: 102%;
+	margin: 20px auto;
+}
+#eventBoardForm .endEventA {
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+#eventBoardForm .endEvent {
+	position: absolute;
+	background: #222;
+	opacity: 0.7;
+	width: 100%;
+	height: 100%;	
+}
+#eventBoardForm .endEvent img {
+	position: absolute;
+	left: 40%;
+	top: 25%;
+	margin-left: -17%;
+	width: 50%;
+}
+#eventBoardForm #eventDate {
+	padding: 5px;
+	font-size: 9pt;
+	color: #999;
+	font-weight: normal;
+}
+
+
+/* 이벤트 글내용 */
+#eventViewForm #eventViewTable {
+	width: 100%;
+	border-bottom: 1px solid #999;
+}
+#eventViewForm #eventViewTable th {
+	border: 1px solid #999;
+	font-size: 18pt;
+	padding: 15px 20px;
+}
+#eventViewForm #eventViewDate {
+	padding: 5px 10px 10px 10px;
+	font-size: 8pt;
+	color: #999;
+	font-weight: normal;
+}
+#eventViewForm #eventViewTable td {
+	padding: 30px 0;
+}
+#eventViewForm #eventViewContent img {
+	width: 100%;
+	margin: -2px;
+}
+#eventViewForm #eventViewTable tr:first-child {
+	border: 1px solid #999;
+} 
+#eventViewForm #eventListBtn {
+	padding: 8px 30px;
+	float: right;
+}
+#eventViewForm:after {
+	content: '';
+	clear: both;
+	display: block;
+}
+
+
+/* 문의 게시판 */
+#qnaBoardWriteDiv {
+	width: 50%;
+	margin: 40px auto;
+	font-size: 14px;
+}
+
+#qnaBoardWriteDiv #qnaBoardWriteInfo {
+	padding: 40px;
+	border: 2px solid #154520;
+}
+
+#qnaBoardWriteDiv #qnaBoardWriteTable {
+	margin: 60px 0 30px 0;
+}
+
+#qnaBoardWriteDiv #qnaBoardWriteTable th, 
+#qnaBoardWriteDiv #qnaBoardWriteTable td {
+	vertical-align: middle;
+	padding: 15px 10px 10px 20px;
+}
+
+#qnaBoardWriteDiv #qnaBoardWriteTable input,
+#qnaBoardWriteDiv #qnaBoardWriteTable select {
+	width: 85%;
+	border: 0;
+	outline: 0;
+	border-bottom: 1px solid #999;
+	vertical-align: bottom;
+}
+
+#qnaBoardWriteDiv #qnaBoardWriteTable textarea {
+	width: 85%;
+}
+#qnaBoardWriteDiv #qnaBoardWriteTable .filebox .upload-name {
+	display: inline-block;
+	padding: 0 10px;
+	border: 0;
+	border-bottom: 1px solid #999;
+	vertical-align: bottom;
+	width: 73%;
+	margin: 0;
+}
+#qnaBoardWriteDiv .filebox label {
+	display: inline-block;
+	padding: 5px 15px;
+	background: white;
+	border: 1px solid #154520;
+	color: #154520;
+	font-size: 9pt;
+	vertical-align: middle;
+	margin: 0;
+}
+#qnaBoardWriteDiv .filebox #qnaAttachedFile {
+	width: 0;
+	height: 0;
+	padding: 0;
+	overflow: hidden;
+	border: 0;
+	margin: 0;
+}
+#qnaBoardWriteDiv #qnaBoardWriteCheck {
+	font-size: 9pt;
+	color: #143420;
+	font-weight: bold;
+}
+#qnaBoardWriteDiv #qnaWriteBtn {
+	color: white;
+	background: #154520;
+}
+#qnaBoardWriteDiv #CancelBtn {
+	border: 1px solid #154520; 
+	color: #154520;
+	font-weight: bold;
+}
+#qnaBoardWriteDiv #myQnaList,
+#qnaBoardWriteDiv #qnaWriteBtn,
+#qnaBoardWriteDiv #CancelBtn {
+	font-size: 14px;
+	padding: 10px 30px;
+}
+#qnaBoardForm #qnaBoardPaging {
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+#qnaBoardForm #qnaBoardTable th {
+	text-align: center;
+}
+#qnaBoardForm .qnaCommentBtn {
+	color: white;
+	background: #154520;
+	font-size: 13px;
+	font-weight: bold;
+	width: 70px;
+	height: 60px;
+}
+#qnaBoardTable .qnaSubject:hover {
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+#qnaBoardTable .pwdWrite {
+	display: none;
+}
+#qnaBoardTable .pwdWriteShow {
+	visibility: visible;
+}
+#qnaBoardTable .contentHide {
+	display: none;
+}
+#qnaBoardTable .contentShow {
+	visibility: visible;
+}
+#qnaBoardTable .qndPwdCheck {
+	color: red; 
+	font-size: 8pt;
+	margin-top: 10px;
+}
+#qnaBoardForm #qnaBoardWriteBtn {
+	background: #154520;
+	color: white;
+	padding: 7px 20px;
+	font-size: 14px;
+	font-weight: bold;
+}
+#qnaBoardForm .pwbWriteBtn {
+	background: #154520;
+	color: white;
+	padding: 5px 20px;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 4px;
+}
+
+#qnaBoardForm #qnaBoardTable {
+	border-bottom: 1px solid #ddd;
+}
+#qnaBoardForm .qnaSubject:link { color: black; text-decoration: none; }
+#qnaBoardForm .qnaSubject:visited { color: black; text-decoration: none; }
+#qnaBoardForm .qnaSubject:hover { color: #154520; text-decoration: underline; }
+#qnaBoardForm .qnaSubject:active { color: black; text-decoration: none; }
+
+/* 자주 묻는 질문 */
+#faqBoardForm .faqSubject:hover {
+	color: blue;
+}
+#faqBoardForm .faqContentHidden {
+	display: none;
+}
+#faqBoardForm .faqContent {
+	visibility: visible;
+}
+#faqBoardForm #faqBoardSearchDiv {
+	background: #eee;
+	height: 80px;
+}
+#faqBoardForm #faqBoardSearchDiv div {
+	float: right;
+	padding-right: 30px;
+	margin-top: 20px;
+}
+#faqBoardForm #faqBoardSearchDiv #faqBoardSearch {
+	border: 1px solid #aaa;
+	height: 40px;
+	margin-right: 5px;
+}
+#faqBoardForm #faqBoardSearchDiv #faqBoardSearchBtn {
+	height: 40px;
+	margin-bottom: 5px;
+	background: #154520;
+	color: white;
+	padding: 7px 20px;
+	font-size: 14px;
+	font-weight: bold;
+}
+#faqBoardForm #faqBoardTable {
+	border-bottom: 1px solid #ddd;
+}
+#faqBoardForm .faqSubject:link { color: black; text-decoration: none; }
+#faqBoardForm .faqSubject:visited { color: black; text-decoration: none; }
+#faqBoardForm .faqSubject:hover { color: #154520; text-decoration: underline; }
+#faqBoardForm .faqSubject:active { color: black; text-decoration: none; }

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+ "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="loginSQL">
+	<select id="login" parameterType="member" resultType="member">
+		select * from milkymember where id=#{id}
+	</select>
+	
+	<update id="loginTime" parameterType="String">
+		update milkymember set loginTime=sysdate where id=#{id}
+	</update>
+	
+	<insert id="kakaoWrite" parameterType="member">
+		BEGIN
+			insert into milkymember (id, nickname, mm, dd, email1, email2, writePath) 
+			values (#{id}, #{nickname}, #{mm}, #{dd}, #{email1}, #{email2}, #{writePath});
+			
+			insert into milkyMemberBenefit values(#{id},
+	 									          '가입혜택',
+	 									          '5만원이상 구매시 2000원 할인쿠폰 1장');
+		END;
+	</insert>
+	
+	<select id="loginEmailCheck" parameterType="member" resultType="member">
+		select * from milkymember where email1=#{email1} and email2=#{email2}
+	</select>
+	
+	<select id="findIdQna" parameterType="member" resultType="member">
+		select * from milkymember where idPwdQuestion=#{idPwdQuestion} and idPwdAnswer=#{idPwdAnswer}
+	</select>
+	
+	<select id="loginIdCheck" parameterType="String" resultType="member">
+		select * from milkymember where id=#{id}
+	</select>
+	
+	<update id="findPwdUpdate" parameterType="member">
+		update milkymember set pwd=#{pwd} where id=#{id}
+	</update>
+</mapper>

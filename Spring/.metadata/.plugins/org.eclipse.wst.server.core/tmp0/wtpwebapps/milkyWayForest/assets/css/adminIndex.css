@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+
+/* 전체스크롤 */
+body::-webkit-scrollbar {
+   width: 5px;
+}
+body::-webkit-scrollbar-thumb {
+   background-color: #666;
+   border-radius: 5px;
+}
+body::-webkit-scrollbar-track {
+   background-color: #ccc;
+}
+
+
+.menu {
+    margin: 3px 5px;
+    padding: 5px;
+}
+
+.sidebar .nav li.active > a, .sidebar .nav li.active > a > i, .off-canvas-sidebar .nav li.active > a, .off-canvas-sidebar .nav li.active > a > i {
+    padding: 0;
+}
+
+.sidebar .nav li > a, .off-canvas-sidebar .nav li > a {
+	padding: 0;
+
+	margin: 10px 0 5px 5px;
+	padding: 5px 0 0 10px;
+}
+.row .col-md-12 {
+	min-height: 90vh;
+}
+#logoutBtn {
+	background: #154520;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+	margin-right: 10px; 
+}
