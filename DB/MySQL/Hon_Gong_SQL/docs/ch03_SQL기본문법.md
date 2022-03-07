@@ -1,7 +1,5 @@
 # ch03. SQL 기본문법
 
-# ch03. SQL 기본문법
-
 📌**순서**
 
 ### SELECT - FROM - WHERE - GROUP BY - HAVING - ORDER BY - LIMIT
