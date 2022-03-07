@@ -5,3 +5,4 @@
 # Table of Content
 
 - [ch02 실전용SQL 맛보기](https://github.com/Jinuk93/TIL/blob/master/DB/MySQL/Hon_Gong_SQL/docs/ch02_SQL.md)
+- [ch03 SQL기본문법](https://github.com/Jinuk93/TIL/blob/master/DB/MySQL/Hon_Gong_SQL/docs/ch03_SQL%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95.md)
