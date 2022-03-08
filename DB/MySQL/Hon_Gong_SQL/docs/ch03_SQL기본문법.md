@@ -19,7 +19,7 @@
 ### 기본 조회하기 : SELECT ~ FROM
 
 <aside>
-📖 **USE 데이터베이스_이름;**
+📖 USE 데이터베이스_이름;
 
 </aside>
 
@@ -64,7 +64,7 @@ SELECT select_expr
 ### SELECT와 FROM
 
 <aside>
-📖 **SELECT * FROM member;**
+📖 SELECT * FROM member;
 
 </aside>
 
@@ -88,7 +88,7 @@ SELECT select_expr
 ### WHERE
 
 <aside>
-📖 **SELECT 열_이름 FROM 테이블_이름 WHERE  조건식;**
+📖 SELECT 열_이름 FROM 테이블_이름 WHERE  조건식;
 
 </aside>
 
@@ -343,7 +343,7 @@ GROUP BY mem_id
 - **INSERT : 새로 가입한 회원을 테이블에 입력할 때**
 
 <aside>
-📖 **INSERT INTO 테이블명 [ (column1, column2, ...) ], VALUES (값1, 값2, ...)**
+📖 INSERT INTO 테이블명 [ (column1, column2, ...) ], VALUES (값1, 값2, ...)
 
 </aside>
 
@@ -355,7 +355,7 @@ GROUP BY mem_id
 **테이블에 “행” 데이터를 입력하는 기본적인 SQL문**
 
 <aside>
-📖 **INSERT INTO 테이블명 [ (column1, column2, ...) ], VALUES (값1, 값2, ...)**
+📖 INSERT INTO 테이블명 [ (column1, column2, ...) ], VALUES (값1, 값2, ...)
 
 </aside>
 
@@ -400,14 +400,14 @@ INSERT INTO hongong2 VALUES (NULL, '슬링키', 30);
 **INSERT INTO ~ SELECT 구문을 사용해 해당 테이블의 데이터를 가져와서 한번에 입력할 수 있다**
 
 <aside>
-📖 **INSERT INTO 테이블명 ( column1, column2, column3, ...)                                                              SELECT문 ;**
+📖 INSERT INTO 테이블명 ( column1, column2, column3, ...)                                                              SELECT문 ;
 
 </aside>
 
 **여러개인 데이터의 개수를 확인을 먼저 하면은**
 
 <aside>
-📖 **SELECT COUNT(*) FROM world.city;**
+📖 SELECT COUNT(*) FROM world.city;
 
 </aside>
 
@@ -418,7 +418,7 @@ INSERT INTO hongong2 VALUES (NULL, '슬링키', 30);
 **DESC는 Describe의 약자로 테이블의 구조를 출력해주는 기능이다**
 
 <aside>
-📖 **DESC world.city**
+📖 DESC world.city
 
 </aside>
 
@@ -465,7 +465,7 @@ SELECT * FROM city_popul WHERE city_name ='서울';
 **DELETE는 행 단위로 삭제하며 형식은 다음과 같다**
 
 <aside>
-📖 **DELETE FROM 테이블명 WHERE 조건;**
+📖 DELETE FROM 테이블명 WHERE 조건;
 
 </aside>
 
