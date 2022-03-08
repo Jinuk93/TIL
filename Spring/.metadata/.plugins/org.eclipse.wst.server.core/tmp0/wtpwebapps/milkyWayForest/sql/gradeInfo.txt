@@ -1,4 +1,0 @@
-create table milkyGradeInfo (
-  gradeName varchar(10) primary key,
-  gradeBenefit varchar(2000)
-);
