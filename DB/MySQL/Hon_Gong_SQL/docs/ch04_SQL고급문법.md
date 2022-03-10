@@ -14,52 +14,50 @@
 ### 데이터형식
 
 1. **정수형**
- 
-    ![Untitled](https://user-images.githubusercontent.com/80089860/157651205-215ccf3a-d3e9-49fc-9139-f471d36e343c.png)
-    
+
+   ![Untitled](https://user-images.githubusercontent.com/80089860/157651205-215ccf3a-d3e9-49fc-9139-f471d36e343c.png)
+
 2. **문자형**
 
-    ![Untitled 1](https://user-images.githubusercontent.com/80089860/157651280-a025005d-effe-43db-b6a8-90768c8de0bd.png)
+   ![Untitled 1](https://user-images.githubusercontent.com/80089860/157651280-a025005d-effe-43db-b6a8-90768c8de0bd.png)
 
-    ![Untitled 2](https://user-images.githubusercontent.com/80089860/157651335-d045dfb3-5164-415b-8b06-2bd6c8f128d7.png)
+   ![Untitled 2](https://user-images.githubusercontent.com/80089860/157651335-d045dfb3-5164-415b-8b06-2bd6c8f128d7.png)
 
-    ![Untitled 3](https://user-images.githubusercontent.com/80089860/157651361-0532aa81-dbff-44db-a1bc-0a3b37f3aaff.png)
+   ![Untitled 3](https://user-images.githubusercontent.com/80089860/157651361-0532aa81-dbff-44db-a1bc-0a3b37f3aaff.png)
 
-    
-    **CHAR(고정형)과 VARCHAR(가변형)의 장,단점은 서로 존재한다**
-    
-    **CAHR는 공간낭비가 있지만, 속도가 약간 빠른편이다**
-    
-    **VARCHAR는 공간을 효율적으로 사용할 수 있다, VARCHAR는 길이의 유동이 큰 편일때 사용하면 좋다**
-    
-    - ***대량의 데이터 형식 (예시. 넷플릭스)***
+   **CHAR(고정형)과 VARCHAR(가변형)의 장,단점은 서로 존재한다**
 
-    ![Untitled 4](https://user-images.githubusercontent.com/80089860/157651457-f70737a2-0454-4340-a163-30c7bc8ac709.png)
-    
-    ```sql
-    CREATE DATABASE netflix_db;
-    USE netflix_db;
-    CREATE TABLE movie
-    	(movie_id       INT,
-    	 movie_title    VARCHAR(30),
-    	 movie_director VARCHAR(20), 
-    	 movie_star     VARCHAR(20),
-    	 movie_script   LONGTEXT,
-    	 movie_film     LONGBLOB --BLOB 2진
-    	)
-    ```
-    
+   **CAHR는 공간낭비가 있지만, 속도가 약간 빠른편이다**
+
+   **VARCHAR는 공간을 효율적으로 사용할 수 있다, VARCHAR는 길이의 유동이 큰 편일때 사용하면 좋다**
+
+   - **_대량의 데이터 형식 (예시. 넷플릭스)_**
+
+   ![Untitled 4](https://user-images.githubusercontent.com/80089860/157651457-f70737a2-0454-4340-a163-30c7bc8ac709.png)
+
+   ```sql
+   CREATE DATABASE netflix_db;
+   USE netflix_db;
+   CREATE TABLE movie
+   	(movie_id       INT,
+   	 movie_title    VARCHAR(30),
+   	 movie_director VARCHAR(20),
+   	 movie_star     VARCHAR(20),
+   	 movie_script   LONGTEXT,
+   	 movie_film     LONGBLOB --BLOB 2진
+   	)
+   ```
+
 3. **실수형**
- 
+
    ![Untitled 5](https://user-images.githubusercontent.com/80089860/157651514-72c37332-9396-4a5a-849a-e9943dc34762.png)
- 
+
 4. **날짜형**
-    
    ![Untitled 6](https://user-images.githubusercontent.com/80089860/157651569-91082b7b-1f4a-4fe1-9b7b-f589318535f3.png)
 
 ### 변수의 사용
 
-   ![Untitled 7](https://user-images.githubusercontent.com/80089860/157651640-3e13e2fa-4b86-4a23-bcc9-49cf27b4ca74.png)
+![Untitled 7](https://user-images.githubusercontent.com/80089860/157651640-3e13e2fa-4b86-4a23-bcc9-49cf27b4ca74.png)
 
 ### 데이터 형변환 = ‘형식 변환’
 
@@ -105,7 +103,7 @@
 
 **데이터베이스의 테이블은 하나로 구성되는것보다 주제에 따라서 분리해서 저장하는 것이 효율적입니다. 이 분리된 테이블은 서로 관계를 맺고있습니다.**
 
-**예를 들어, 인터넷쇼핑몰에서의 회원 테이블과 구매 테이블 등이 있습니다.** 
+**예를 들어, 인터넷쇼핑몰에서의 회원 테이블과 구매 테이블 등이 있습니다.**
 
 **일대다 테이블은, 한 쪽 테이블은 하나의 값만 존재해야만 하고**
 
@@ -119,7 +117,7 @@
 
     구매테이블은 외래키(Foreign Key, FK)로 설정했습니다.
 
-***기본키(PK)-외래키(FK)로 관계로 맺어져야 한다. (예외 : 상호 조인)**
+**\*기본키(PK)-외래키(FK)로 관계로 맺어져야 한다. (예외 : 상호 조인)**
 
 ### 내부 조인의 기본
 
@@ -155,6 +153,7 @@ FROM buy --첫번째 테이블
 WHERE buy.mem_id = 'GRL';
 -- 구매테이블에서 ID가 GRL인 친구의 구매 테이블의 db와 회원 테이블의 db를 가져온다**
 ```
+
 ![Untitled 10](https://user-images.githubusercontent.com/80089860/157651841-28d2f5fb-0eb7-46d2-b967-905007c98263.png)
 
 **위 처럼 두 테이블에 mem_id 열이 중복된 게 있으면, 오류가 뜬다**
@@ -173,7 +172,7 @@ SELECT buy.mem_id ~~ AS '연락처'
 
 **구매 하지 않은 회원 정보(회원 테이블의)들은 나오지 않게된다 (당연한거 아닌가 싶겠지만...)**
 
-**외부조인을 할 경우, ‘구매하지 않는 회원’들에 대한 DB도 출력할 수 있다.** 
+**외부조인을 할 경우, ‘구매하지 않는 회원’들에 대한 DB도 출력할 수 있다.**
 
 ### 중복된 결과 1개만 출력하기
 
@@ -219,7 +218,7 @@ ORDER BY M.mem_id;
 
 **‘(구매기록이 없는 회원의 정보도 함께)출력’을 외부 조인으로 만들어보겠습니다.**
 
- ⇒
+⇒
 
 1. **왼쪽에는 모든 회원 (member)테이블을 두고, 오른쪽을 구매(buy)테이블을 둔다**
 2. **외부조인 할 때는 LEFT OUTER JOIN을 사용해서 왼쪽 테이블의 모든 DB를 출력하게 한다**
@@ -254,11 +253,11 @@ ORDER BY M.mem_id;
 SELECT DISTNCT M.mem_id, B.prod_name, M.mem_name, M.addr
 
 	FROM member M
-	
+
 		LEFT OUTER JOIN buy B
-		
+
 		ON M.mem_id = B.mem_id
-	
+
 	WHERE B.prod_name IS NULL
 
 ORDER BY M.mem_id;
@@ -266,4 +265,4 @@ ORDER BY M.mem_id;
 
 - **FULL OUTER JOIN은 왼쪽 외부 조인과 오른쪽 외부 조인이 합쳐진 것이라고 생각하면 됩니다**
 
-**왼쪽이든 오른쪽이든 한 쪽에 들어있는 내용이면 출력한다 *자주사용하지 않는다**
+**왼쪽이든 오른쪽이든 한 쪽에 들어있는 내용이면 출력한다 \*자주사용하지 않는다**

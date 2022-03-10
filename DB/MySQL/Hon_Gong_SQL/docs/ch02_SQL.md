@@ -26,7 +26,6 @@
 
 ![Untitled 2](https://user-images.githubusercontent.com/80089860/156728652-bf37e3c7-df85-49aa-9be6-712dbdab44d6.png)
 
-
 - **프로젝트 계획 : 슈퍼마켓의 물건들을 온라인으로 판매하기 위한 계획 단계**
 - **업무 분석 : 슈퍼마켓에서 업무가 어떻게 돌아가는지 파악하는 것입니다. 예로 물건은 어디서 들어오는지, 물건은 어떻게 계산하는지, 재고는 어떻게 관리하는지 드으이 업무에 대해서 정리하는 단계**
 - **시스템 설계 : 앞에서 정리한 업무 분석을 컴퓨터에 적용 시키기 위해서 알맞은 형태로 다듬는 과정**
@@ -47,9 +46,7 @@
 - **열(column) : 가로, 테이블의 세로를 말한다. 각 테이블은 여러개의 컬럼, 필드로 구성된다**
 - **행(row) : 세로, 실질적인 진짜 데이터, 다른말로 ‘행 데이터’라고 말하며, 행의 개수가 곧, 데이터의 개수이다. 예를 들어, 행의 데이터가 4개가 있으면 4명의 회원정보 데이터가 들어있는 것이다**
 - **기본 키(Primary Key, PK) : 기본 키 또는 주 키, 열은 각 행을 구분하는 유일한 열을 말한다 예를 들어, 네이버의 회원 아이디, 학번, 주민등록번호 같은 것이다. 그래서 기본키는 중복되어서는 안되며, 비어있어서도 안된다.**
-    
-    **테이블에는 열이 여러개이지만, 기본 키는 1개만 지정해야 하며, 일반적으로 1개의 열에 지정합니다**
-    
+  **테이블에는 열이 여러개이지만, 기본 키는 1개만 지정해야 하며, 일반적으로 1개의 열에 지정합니다**
 - **SQL(Structured Query Language) : 구조화된 질의 언어 즉, SQL은 사람과 DBMS가 소통하기 위한 언어이다**
 
 ### 데이터베이스 구축절차
@@ -61,15 +58,15 @@
 
 ---
 
-**SELECT * FROM member;** 
+**SELECT \* FROM member;**
 
-**// member 테이블의 * ( 모든 행, column )의 데이터를 선택**
+**// member 테이블의 \* ( 모든 행, column )의 데이터를 선택**
 
 **SELECT member_name, member_addr FROM member;**
 
 **// member 테이블의 member_name, member_addr 콜럼(열)을 선택해라**
 
-**SELECT * FROM member WHERE member_name = ‘아이유’;** 
+**SELECT \* FROM member WHERE member_name = ‘아이유’;**
 
 **// member 테이블에서 member_name이 ‘아이유’인것을 선택해라**
 
@@ -104,7 +101,7 @@
 
 **인덱스가 없을 경우 : Full Table Scan을 통해 “전체 테이블 검색” 으로 나오지만,**
 
-**인덱스를 생성하고 찾을 경우 : “Non-Unique Key Lookup”으로 나온다.** 
+**인덱스를 생성하고 찾을 경우 : “Non-Unique Key Lookup”으로 나온다.**
 
 ### 뷰(가상의 테이블)
 
@@ -159,7 +156,7 @@ SELECT * FROM member WHERE member_name = '나훈아';
 SELECT * FROM product WHERE product_name = '삼각김밥';
 
 DELIMITER //
-CREATE PROCEDURE myProc() 
+CREATE PROCEDURE myProc()
 BEGIN
 	SELECT * FROM member WHERE member_name = '나훈아';
 	SELECT * FROM product WHERE product_name = '삼각김밥';
@@ -169,10 +166,9 @@ DELIMITER ;
 CALL myProc();
 ```
 
-
 - **데이터베이스 개체 : Database Object : 테이블, 뷰, 인텍스, 스토어드 프로시저 등 데이터베이스 안에 저장되있는 개체**
 - **인덱스 검색 : Index Scan : 인덱스를 통해서 데이터를 찾는 것을 말함, 책 뒤의 찾아보기를 사용한 것과 비슷함**
-- **구분 문자 : DELIMITER :  스토어드 프로시저를 묶어주는 예약어**
+- **구분 문자 : DELIMITER : 스토어드 프로시저를 묶어주는 예약어**
 - **호출 : CALL : 스토어드 프로시저를 호출하는 예약어**
 - **개체 생성문 : CREATE : 데이터베이스 개체를 생성할 때 사용하는 예약어**
 - **개체 삭제문 : DROP : 데이터베이스 개체를 삭제할 때 사용하는 예약어**

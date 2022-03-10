@@ -31,17 +31,17 @@
 
 📌📌
 
-**SELECT 열_이름**
+**SELECT 열\_이름**
 
-**FROM 테이블_이름**
+**FROM 테이블\_이름**
 
 **WHERE 조건식**
 
-**GROUP BY 열_이름**
+**GROUP BY 열\_이름**
 
 **HAVING 조건식**
 
-**ORDER BY 열_이름**
+**ORDER BY 열\_이름**
 
 **LIMIT 숫자**
 
@@ -69,13 +69,13 @@ SELECT select_expr
 </aside>
 
 1. **SELET : 테이블 조회할 때(가져올 떄) 쓰는 예약어**
-2. **‘*’ : 모든 열 (column)을 뜻한다**
+2. **‘\*’ : 모든 열 (column)을 뜻한다**
 3. **FROM : FROM 다음에 테이블이름이 나온다, 그 테이블에서 내용을 가져오라는 의미**
 4. **member : 조회할 테이블명**
 
-**원래 테이블 전체 이름은 데이터베이스_이름.테이블_이름 형식으로 표현한다**
+**원래 테이블 전체 이름은 데이터베이스*이름.테이블*이름 형식으로 표현한다**
 
-**ex. SELECT * FROM market_db.member;**
+**ex. SELECT \* FROM market_db.member;**
 
 ### 특정 column(열)에서 가져오기
 
@@ -96,7 +96,7 @@ SELECT select_expr
 
 **문자형(CHAR)이므로 ‘’ (작은 따옴표)로 묶어줬습니다.**
 
-**ex. SELECT * FROM member WHERE mem_name = ‘블랙핑크’;**
+**ex. SELECT \* FROM member WHERE mem_name = ‘블랙핑크’;**
 
 ### WHERE(조건문)에서 관계 연산자, 논리 연산자의 사용
 
@@ -157,11 +157,11 @@ WHERE addr IN('경기', '전남', '서울');**
 WHERE mem_name '우%';**
 ```
 
-혹은 _(언더바)를 이용해서 찾을 수 있다
+혹은 \_(언더바)를 이용해서 찾을 수 있다
 
 ```sql
 **SELECT * FROM member
-WHERE mem_name LIKE '__핑크'; 
+WHERE mem_name LIKE '__핑크';
 예시. 블랙핑크, 에이핑크**
 ```
 
@@ -197,10 +197,10 @@ WHERE height > (SELECT height FROM member WHERE mem_name = '에이핑크');**
 - **주석 : remart : 하이픈(—) 2개로 구성**
 - **VARCHAR : 문자형으로 CHAR와 거의 비슷함**
 - **AUTO_INCREMENT : 자동으로 숫자를 입력시켜줌, 테이블을 생성할 때 지정함**
-- *** : 모든 열을 지정할 때 사용하는 기호**
+- **\* : 모든 열을 지정할 때 사용하는 기호**
 - **별칭 : alias : SELECT문에서 실제 열 이름 대신에 출력되도록 설정하는 문자**
 - **% : 문자열에서 여러 문자에 대응하는 기호**
-- **_ : 문자열에서 한 문자에 대응하는 기호**
+- **\_ : 문자열에서 한 문자에 대응하는 기호**
 
 ---
 
@@ -226,7 +226,7 @@ ORDER BY debut_date
 **ORDER BY절은 WHERE절 다음에 나와야 합니다.**
 
 ```sql
-SELECT mem_id, mem_name, debut_date, height 
+SELECT mem_id, mem_name, debut_date, height
 FROM member
 WHERE height >= 164
 ORDER BY height DESC;
@@ -265,7 +265,7 @@ LImIT 3,2; -- 3번째부터 2건만 조회할 수 있다
 
 ### GROUP BY절
 
-**그룹으로 묶어주는 역할을 합니다.** 
+**그룹으로 묶어주는 역할을 합니다.**
 
 ```sql
 SELECT mem_id, amount FROM buy ORDER BY mem_id;
@@ -378,7 +378,7 @@ CREATE TABLE hongong2 (
 	age INT);
 
 INSERT INTO hongong2 VALUES (NULL, ''보핍', 24);
-INSERT INTO hongong2 VALUES (NULL, '슬링키', 30); 
+INSERT INTO hongong2 VALUES (NULL, '슬링키', 30);
 --이런식으로 toy_id는 AUTO_INCREMENT로서 K로 지정 => NULL값 지정
 
 ```
