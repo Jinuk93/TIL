@@ -14,16 +14,17 @@
 ### 데이터형식
 
 1. **정수형**
-    
-    ![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled.png)
+ 
+    ![Untitled](https://user-images.githubusercontent.com/80089860/157651205-215ccf3a-d3e9-49fc-9139-f471d36e343c.png)
     
 2. **문자형**
-    
-    ![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%201.png)
-    
-    ![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%202.png)
-    
-    ![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%203.png)
+
+    ![Untitled 1](https://user-images.githubusercontent.com/80089860/157651280-a025005d-effe-43db-b6a8-90768c8de0bd.png)
+
+    ![Untitled 2](https://user-images.githubusercontent.com/80089860/157651335-d045dfb3-5164-415b-8b06-2bd6c8f128d7.png)
+
+    ![Untitled 3](https://user-images.githubusercontent.com/80089860/157651361-0532aa81-dbff-44db-a1bc-0a3b37f3aaff.png)
+
     
     **CHAR(고정형)과 VARCHAR(가변형)의 장,단점은 서로 존재한다**
     
@@ -32,8 +33,8 @@
     **VARCHAR는 공간을 효율적으로 사용할 수 있다, VARCHAR는 길이의 유동이 큰 편일때 사용하면 좋다**
     
     - ***대량의 데이터 형식 (예시. 넷플릭스)***
-    
-    ![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%204.png)
+
+    ![Untitled 4](https://user-images.githubusercontent.com/80089860/157651457-f70737a2-0454-4340-a163-30c7bc8ac709.png)
     
     ```sql
     CREATE DATABASE netflix_db;
@@ -49,21 +50,20 @@
     ```
     
 3. **실수형**
-    
-    ![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%205.png)
-    
+ 
+   ![Untitled 5](https://user-images.githubusercontent.com/80089860/157651514-72c37332-9396-4a5a-849a-e9943dc34762.png)
+ 
 4. **날짜형**
     
-    ![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%206.png)
-    
+   ![Untitled 6](https://user-images.githubusercontent.com/80089860/157651569-91082b7b-1f4a-4fe1-9b7b-f589318535f3.png)
 
 ### 변수의 사용
 
-![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%207.png)
+   ![Untitled 7](https://user-images.githubusercontent.com/80089860/157651640-3e13e2fa-4b86-4a23-bcc9-49cf27b4ca74.png)
 
 ### 데이터 형변환 = ‘형식 변환’
 
-![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%208.png)
+![Untitled 8](https://user-images.githubusercontent.com/80089860/157651715-771ef919-7350-48c9-bfd2-05b420afbb31.png)
 
 ---
 
@@ -91,7 +91,7 @@
 
 **회원 테이블에는 회원의 이름과 연락처가 있고, 구매 테이블에는 회원이 구매한 물건이 있습니다. 물건을 배송하려면 회원 테이블의 회원 이름과 연락처, 구매 테이블의 회원이 구매한 물건에 대한 정보가 함께 필요합니다. 이렇게 두 개의 테이블을 엮어서 하나의 배송을 위한 정보를 추출하는 것이 대표적인 조인입니다 ⇒ 인터넷 쇼핑몰**
 
-![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%209.png)
+![Untitled 9](https://user-images.githubusercontent.com/80089860/157651758-339e561f-8ad1-4656-986a-f38b9d5d9871.png)
 
 ### 내부조인
 
@@ -117,7 +117,7 @@
 
 **이 때, 회원테이블은 기본키(Primary Key, PK)로 지정하고**
 
-    **구매테이블은 외래키(Foreign Key, FK)로 설정했습니다.**
+    구매테이블은 외래키(Foreign Key, FK)로 설정했습니다.
 
 ***기본키(PK)-외래키(FK)로 관계로 맺어져야 한다. (예외 : 상호 조인)**
 
@@ -155,8 +155,7 @@ FROM buy --첫번째 테이블
 WHERE buy.mem_id = 'GRL';
 -- 구매테이블에서 ID가 GRL인 친구의 구매 테이블의 db와 회원 테이블의 db를 가져온다**
 ```
-
-![Untitled](ch04%20SQL%20%E1%84%80%204d594/Untitled%2010.png)
+![Untitled 10](https://user-images.githubusercontent.com/80089860/157651841-28d2f5fb-0eb7-46d2-b967-905007c98263.png)
 
 **위 처럼 두 테이블에 mem_id 열이 중복된 게 있으면, 오류가 뜬다**
 
