@@ -1,10 +1,10 @@
 # 03. 웹 서버(Web Server)와 Servlet
 
-### Web
 
 ***Web(웹)이란 정적, 동적 컨텐츠를 모두 제공한다***
 
 **Web과 Web ~~App~~ Server(WAS) 이렇게 보면 쉬울 듯 싶다**
+<br>
 
 **0. Web Server란?**
 
