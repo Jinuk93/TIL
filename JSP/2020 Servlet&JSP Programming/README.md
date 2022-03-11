@@ -1,5 +1,5 @@
 ![NewLecture](https://user-images.githubusercontent.com/80089860/157815319-41f48e6a-3f90-4e19-a325-f9fc345a571d.PNG) 
-[NewLecture 2020 Servlet&JSP Programming](https://www.youtube.com/watch?v=drCj2k50j_k&list=PLq8wAnVUcTFVOtENMsujSgtv2TOsMy8zd&index=1)
+[NewLecture|2020 Servlet&JSP Programming](https://www.youtube.com/watch?v=drCj2k50j_k&list=PLq8wAnVUcTFVOtENMsujSgtv2TOsMy8zd&index=1)
 
 <br>
 
