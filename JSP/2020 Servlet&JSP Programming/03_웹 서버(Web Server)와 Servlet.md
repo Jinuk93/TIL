@@ -9,7 +9,7 @@
 **0. Web Server란?**
 
 <aside>
-⭐ ***html페이지 등을 네트워크망에 종속되지 않고, 웹서비스를 할 수 있도록 한다 (정적 )***
+⭐ html페이지 등을 네트워크망에 종속되지 않고, 웹서비스를 할 수 있도록 한다 (정적 )
 
 </aside>
 
@@ -18,7 +18,7 @@
 ### **1. WAS(Web ~~Application~~ Server)란?**
 
 <aside>
-⭐ ***웹 서버(Web server) + 웹 컨테이너(예시. JSP, Servlet) (동적 )***
+⭐ 웹 서버(Web server) + 웹 컨테이너(예시. JSP, Servlet) (동적 )
 
 </aside>
 
@@ -83,7 +83,7 @@ Jeus
 ### Servlet
 
 <aside>
-⭐ **Server(서버) + let(조각)**
+⭐ Server(서버) + let(조각)
 
 </aside>
 
