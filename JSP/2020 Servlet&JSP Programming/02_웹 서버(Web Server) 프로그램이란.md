@@ -26,7 +26,7 @@
 
 **예시.**
 
-**네이버(www.naver.com)은** 
+**네이버는 ** 
 
 - **물리적 서버주소 : ip (192.168.0.1)**
 - **각 서비스의 접근 경로 : port (80)**
@@ -47,7 +47,7 @@
 
 **이러한 현상을 막기 위한 것이 바로 Protocol(약속)이다.**
 
-[https://t1.daumcdn.net/cfile/tistory/9925374A5AA93EB637](https://t1.daumcdn.net/cfile/tistory/9925374A5AA93EB637)
+![9925374A5AA93EB637](https://user-images.githubusercontent.com/80089860/157901055-596e123c-fadf-4d5a-ab8f-c94f8cb228e1.png)
 
 **우리가 인터넷을 사용한다는 것은**
 
@@ -87,9 +87,8 @@
 ### GET방식과 POST방식(method=”GET” or “POST”)
 
 - ***GET방식***
-    
-    
-    ![Untitled](02%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A5%E1%84%87%205e1fd/Untitled.png)
+- 
+    ![Untitled](https://user-images.githubusercontent.com/80089860/157901129-e2b1c53f-1d28-403c-94a5-7291b0be6c93.png)
     
     **GET방식은 URL과 Parameter로 구성되며**
     
@@ -100,17 +99,16 @@
     **흔히 인터넷 북마크 기능은 GET방식이다.**
     
 - ***POST방식***
-    
-    
-    ![Untitled](02%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A5%E1%84%87%205e1fd/Untitled%201.png)
+
+    ![Untitled 1](https://user-images.githubusercontent.com/80089860/157901160-32fdba93-9d12-4d73-a00d-422a7a7da0cc.png)
+
     
     사용자로부터 **정보를 받아, 서버에 입력하거나 수정하는 방식**으로
     
     **보통 아래사진과 같이 ‘입력’ 또는 ‘수정’ 기능을 자주 사용하는 게시판에 자주 쓰인다** 
     
-    [https://t1.daumcdn.net/cfile/tistory/9947F13D5AA93EB81D](https://t1.daumcdn.net/cfile/tistory/9947F13D5AA93EB81D)
+    ![9947F13D5AA93EB81D](https://user-images.githubusercontent.com/80089860/157901317-3d370ab0-5a6d-476e-aa9e-5cead66c9164.png)
     
-
 ---
 
 ### Respnse(응답)
