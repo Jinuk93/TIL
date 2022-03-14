@@ -4,6 +4,11 @@
 
 
 # Table of Content
+
+<details>
+  <summary>01_10</summary>
+    <ul>
+        <li><a href="./%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%9E%80.md">자료구조란?</a></li>
 - [01 학습안내](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10/01_%ED%95%99%EC%8A%B5%EC%95%88%EB%82%B4.md)
 - [02 웹 서버(Web Server) 프로그램이란](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10/02_%EC%9B%B9%20%EC%84%9C%EB%B2%84(Web%20Server)%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%B4%EB%9E%80.md)
 - [03 웹 서버(Web Server)와 Servlet](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10/03_%EC%9B%B9%20%EC%84%9C%EB%B2%84(Web%20Server)%EC%99%80%20Servlet.md)
@@ -11,4 +16,5 @@
 - [08 서블릿 객체 생성과 실행 방법](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10/08_%EC%84%9C%EB%B8%94%EB%A6%BF%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EC%8B%A4%ED%96%89%20%EB%B0%A9%EB%B2%95.md)
 - [09 서블릿(Servlet) 문자열 출력](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10/09_%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet)%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%9C%EB%A0%A5.md)
 - [10 웹 개발을 위한 이클립스 IDE 준비하기](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10/10_%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%20IDE%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0.md)
-
+  </ul>
+</details>
