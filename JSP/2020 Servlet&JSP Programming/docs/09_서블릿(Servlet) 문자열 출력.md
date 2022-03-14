@@ -7,7 +7,7 @@
 **HttpServletResponse - 출력 도구, 응답객체**
 
 <aside>
-⭐ ***Stream으로 출력***
+⭐ Stream으로 출력
 
 </aside>
 
@@ -22,7 +22,7 @@
 **//문자열(String 타입) 출력을 편하게 쓰는 PrintStream 사용**
 
 <aside>
-⭐ ***Writer으로 출력***
+⭐ Writer으로 출력
 
 </aside>
 
