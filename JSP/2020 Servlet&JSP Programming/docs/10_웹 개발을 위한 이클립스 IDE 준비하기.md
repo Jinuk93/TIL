@@ -1,5 +1,5 @@
 # 10. 웹 개발을 위한 이클립스 IDE 준비하기
 
-![Untitled](10%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%A2%E1%84%87%20971c1/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/158114076-dd6dbf6b-6baa-49f3-8970-b281ce7ebe69.png)
 
-![Untitled](10%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%A2%E1%84%87%20971c1/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/158114105-0b5f56a1-edf9-4097-bc00-6745c3618143.png)
