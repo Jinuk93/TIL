@@ -1,1 +1,1 @@
-하.... 개객끼들
+# Error Resolution
