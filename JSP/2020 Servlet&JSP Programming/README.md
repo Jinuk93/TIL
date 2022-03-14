@@ -6,7 +6,7 @@
 # Table of Content
 
 <details>
-  <summary>Newlecture Servlet/JSP 01~10</summary>
+  <summary>Newlecture 2020 Servlet&JSP 01~10</summary>
     <ul>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10/01_%ED%95%99%EC%8A%B5%EC%95%88%EB%82%B4.md">01 학습안내</a></li>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10/02_%EC%9B%B9%20%EC%84%9C%EB%B2%84(Web%20Server)%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%B4%EB%9E%80.md">02 웹 서버(Web Server) 프로그램이란</a></li>
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-  <summary>Newlecture Servlet/JSP 11~20</summary>
+  <summary>Newlecture 2020 Servlet&JSP 11~20</summary>
     <ul>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10/01_%ED%95%99%EC%8A%B5%EC%95%88%EB%82%B4.md">수정바람</a></li>
     </ul>
