@@ -3,7 +3,7 @@
 
 [2020 Servlet&JSP Programming 강좌](https://www.youtube.com/watch?v=drCj2k50j_k&list=PLq8wAnVUcTFVOtENMsujSgtv2TOsMy8zd&index=1)
 
-# Table of Content
+## Table of Content
 
 <details>
   <summary>2020 Servlet&JSP 01~10</summary>
