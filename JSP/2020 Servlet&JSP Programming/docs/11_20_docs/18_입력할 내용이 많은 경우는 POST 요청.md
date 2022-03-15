@@ -1,8 +1,8 @@
 # 18. 입력할 내용이 많은 경우는 POST 요청
 
-![Untitled](18%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%2059e5f/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/158416985-bed8646d-aa77-49da-b70b-f9ac6ea3b5e6.png)
 
-![Untitled](18%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%2059e5f/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/158417003-b6148413-0159-4cf2-b70b-a5ffdf5a9459.png)
 
 1. **Mapping 명(form안의 action명과 Java에서 어노테이션명)을 똑같이 할 것**
 2. **html의 form안에 있는 name명을 똑같이 할 것**
@@ -10,11 +10,11 @@
 
 ---
 
-![Untitled](18%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%2059e5f/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/80089860/158417042-4e67c11d-abf4-4e75-86ce-bc038f92fcb2.png)
 
 ### GET방식의 단점
 
-![Untitled](18%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%2059e5f/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/80089860/158417060-da5583d7-7570-4fef-baa0-7014d669a58b.png)
 
 **Parameter 구간에서 쿼리스트링의 길이가 길어지는대로**
 
@@ -28,7 +28,7 @@
 
 ---
 
-![Untitled](18%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%2059e5f/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/80089860/158417100-db443761-ac95-47f1-babb-d97c8e34fa57.png)
 
 **Request 방식에서 GET, POST 방식이 아닌,** 
 
@@ -37,7 +37,7 @@
 **입력받은 쿼리값으로 전달된다**
 
 - **POST방식**
-
-![Untitled](18%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%2059e5f/Untitled%205.png)
+- 
+![Untitled 5](https://user-images.githubusercontent.com/80089860/158417122-f64509ff-6eba-4989-a32e-e9bdd6f02183.png)
 
 **처럼 주소의 길이가 간결하다**
