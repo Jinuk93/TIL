@@ -37,7 +37,7 @@
 **입력받은 쿼리값으로 전달된다**
 
 - **POST방식**
-- 
+
 ![Untitled 5](https://user-images.githubusercontent.com/80089860/158417122-f64509ff-6eba-4989-a32e-e9bdd6f02183.png)
 
 **처럼 주소의 길이가 간결하다**
