@@ -6,7 +6,7 @@
 ## Table of Content
 
 <details>
-  <summary>2020 Servlet&JSP 01~10</summary>
+  <summary>Servlet 01~10</summary>
     <ul>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10_docs/01_%ED%95%99%EC%8A%B5%EC%95%88%EB%82%B4.md">01 학습안내</a></li>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/01_10_docs/02_%EC%9B%B9%20%EC%84%9C%EB%B2%84(Web%20Server)%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%B4%EB%9E%80.md">02 웹 서버(Web Server) 프로그램이란</a></li>
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-  <summary>2020 Servlet&JSP 11~20</summary>
+  <summary>Servlet 11~20</summary>
     <ul>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/11_20_docs/11_%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md">11 이클립스를 이용한 서블릿 프로그래밍</a></li>
       <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/11_20_docs/12_%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20URL%20%EB%A7%A4%ED%95%91.md">12 어노테이션을 이용한 URL 매핑</a></li>
