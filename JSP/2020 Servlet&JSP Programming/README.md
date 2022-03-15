@@ -34,6 +34,5 @@
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/11_20_docs/19_%ED%95%9C%EA%B8%80%20%EC%9E%85%EB%A0%A5%20%EB%AC%B8%EC%A0%9C.md">19. 한글 입력 문제</a></li>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/11_20_docs/20_%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%95%84%ED%84%B0(Servlet%20Filter).md">20. 서블릿 필터(Servlet Filter)</a></li>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/11_20_docs/20-1_%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%95%84%ED%84%B0(Servlet%20Filter)%EB%9E%80.md">20-1. 서블릿 필터(Servlet Filter)란?</a></li>
-      
-    </ul>
+   </ul>
 </details>
