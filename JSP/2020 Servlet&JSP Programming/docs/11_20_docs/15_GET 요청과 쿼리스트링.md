@@ -4,21 +4,21 @@
 
 (**GET요청이란,** http://localhost/**hello** 에서 **hello** 라는 **servlet 문서를 요청**하는 것이다.)
 
-![Untitled](15%20GET%20%E1%84%8B%E1%85%AD%E1%84%8E%20822f6/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/158416359-e3f71593-fec7-465c-8f8b-cae0afde6a8a.png)
 
 ---
 
 **문서를 요청(request)할 때는, 요구하는 옵션이 있을 수 있다.**
 
-![Untitled](15%20GET%20%E1%84%8B%E1%85%AD%E1%84%8E%20822f6/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/158416377-c1ea99b4-60e9-4e2d-96d6-112c5ee22d6e.png)
 
 예시. http://localhost/hello**?cnt=3** 
 
 **(위처럼, 요구하는 옵션 "cnt=3"을 QueryString(쿼리스트링) 이라고 하고, “?”는 이를 구분하는 ‘구분자’이다.)**
 
-![Untitled](15%20GET%20%E1%84%8B%E1%85%AD%E1%84%8E%20822f6/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/80089860/158416397-a4a7484e-d3f3-4309-956b-4601e28b1767.png)
 
-![Untitled](15%20GET%20%E1%84%8B%E1%85%AD%E1%84%8E%20822f6/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/80089860/158416411-f1b0ede5-660c-400e-ac15-9eecb40d58e8.png)
 
 📌
 
