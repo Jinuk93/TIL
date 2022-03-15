@@ -4,19 +4,19 @@
 
 **여기서는 어노테이션Webservlet으로 사용했다**
 
-![Untitled](17%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%204e969/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/158416801-61626870-7cb2-4a8e-8841-b87cb52cc871.png)
 
-![Untitled](17%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%204e969/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/158416829-cc5ef0bb-c8ca-4cb4-8fa0-c123879358a8.png)
 
 ---
 
-![Untitled](17%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%204e969/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/80089860/158416854-0bd51762-8d76-4d11-9c89-d17f82590a39.png)
 
 ---
 
 ### 한글출력 설정
 
-![Untitled](17%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%204e969/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/80089860/158416877-eaeb5d3f-bd79-4f90-aa4e-461274adc913.png)
 
 **Web에서**
 
