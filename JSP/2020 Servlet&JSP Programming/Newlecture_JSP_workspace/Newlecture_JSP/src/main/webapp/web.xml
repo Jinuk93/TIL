@@ -5,17 +5,22 @@
   xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
                       http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
   version="4.0"
-  metadata-complete="true">
+  metadata-complete="false">
 	
-  <servlet>
-	<servlet-name>Jinuk</servlet-name>
-	<servlet-class>com.newlecture.web.Jinuk</servlet-class>
-  </servlet>
+ <!--  <servlet>
+			<servlet-name>Jinuk</servlet-name>
+			<servlet-class>com.newlecture.web.Jinuk</servlet-class>
+	  </servlet> -->
+  
+  	<!-- 서블릿 필터설정 -->
+	  <filter>
+	  	<filter-name>characterEncodingFilter</filter-name>
+	  	<filter-class>com.newlecture.web.filter.CharacterEncodingFilter</filter-class>
+	  </filter>
+	  <filter-mapping>
+	  	<filter-name>characterEncodingFilter</filter-name>
+  		<url-pattern>/*</url-pattern>
+  	  </filter-mapping>
 
-	
-  <display-name>Welcome to Tomcat</display-name>
-  <description>
-     Welcome to Tomcat
-  </description>
 
 </web-app>
