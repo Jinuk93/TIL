@@ -11,4 +11,4 @@
 
 ## JSP
   - [2020 Servlet&JSP Programming](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/README.md)
-  - [Bitamp](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/README.md)
+  - [Bitcamp](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/README.md)
