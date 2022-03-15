@@ -11,14 +11,14 @@
 web.xml 경로는 {프로젝트 경로}\WebContent\WEB-INF\web.xml 입니다.
 
 ```
-**<servlet>
+<servlet>
 	<servlet-name>hello</servlet-name>
 	<servlet-class>com.seung.HelloServlet</servlet-class>
 </servlet>
 <servlet-mapping>
 	<servlet-name>hello</servlet-name>
 	<url-pattern>/hello</url-pattern>
-</servlet-mapping>**
+</servlet-mapping>
 ```
 
 **Servlet 2.* 에서는 web.xml 파일에서만 url 매핑이 가능했지만,** 
@@ -67,7 +67,7 @@ web.xml 경로는 {프로젝트 경로}\WebContent\WEB-INF\web.xml 입니다.
 
 ---
 
-![Untitled](12%20%E1%84%8B%E1%85%A5%E1%84%82%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%2071486/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/158413160-ec66bd52-6f67-471b-9be4-58ce0d5222a9.png)
 
 **어노테이션(Annotation) 사용시, web.xml에 가서**
 
@@ -93,7 +93,8 @@ false로 바꿨으니
 
 전에 입력했던 매핑정보를 주석처리한다
 
-![Untitled](12%20%E1%84%8B%E1%85%A5%E1%84%82%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%2071486/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/158413184-dd842d1a-4c9f-40d8-9234-c4f3ccda4044.png)
+
 
 ![https://postfiles.pstatic.net/MjAyMTA2MTFfMjAz/MDAxNjIzMzg0MjQwODYx.C5MQHdaGeL3SJIgSZFccKtYeylZzODuZBor_4SCwQoUg.7-d8fHoRcchAhVYjXDy1ayhPXgmXcgGZSGBVemyIo6kg.PNG.ttb190926/image.png?type=w773](https://postfiles.pstatic.net/MjAyMTA2MTFfMjAz/MDAxNjIzMzg0MjQwODYx.C5MQHdaGeL3SJIgSZFccKtYeylZzODuZBor_4SCwQoUg.7-d8fHoRcchAhVYjXDy1ayhPXgmXcgGZSGBVemyIo6kg.PNG.ttb190926/image.png?type=w773)
 
