@@ -20,7 +20,7 @@
 
 ---
 
-![Untitled](20%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%2078289/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/158417420-d3b36738-c89b-47bb-ae00-d16430f6f552.png)
 
 [서블릿 필터란?](https://www.notion.so/1b2ae2fa35c04c9397e7816752d3720e)
 
@@ -42,7 +42,7 @@ Servlet과 거의 동일하지만 기능이 Filtering 이기 때문에 이렇게
 
 ### 방법 1 : web.xml에 등록
 
-![Untitled](20%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%2078289/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/158417436-d4daffdb-a123-4abc-836a-661018dfa982.png)
 
 ### 방법 2 : 어노테이션(Annotation)
 
