@@ -22,7 +22,7 @@
 
 ### 설치
 
-![Untitled](01%20Servlet%20f54b8/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/158306766-acb61674-3ddd-42d6-90a9-88280a1a59c1.png)
 
 ---
 
@@ -51,9 +51,8 @@
 
 **아래 사진의 bulid\classes는 java 코드를 컴파일 시킨 파일들의 저장주소입니다.**
 
-![Untitled](01%20Servlet%20f54b8/Untitled%201.png)
-
-![Untitled](01%20Servlet%20f54b8/Untitled%202.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/158306787-95d0f720-9b13-472c-a52a-1c24209301c1.png)
+![Untitled 2](https://user-images.githubusercontent.com/80089860/158306805-5bf00da5-0d74-44e5-8e4c-f7cc04f74a24.png)
 
 **위의 과정에서 next를 누른 후, 위의 사진처럼 Generate web.xml을 체크하면**
 
@@ -63,11 +62,11 @@
 
 ### 실습1
 
-![Untitled](01%20Servlet%20f54b8/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/80089860/158306813-65ce4850-a0be-4913-9140-c3dd82305b21.png)
 
 1. **src\main\java에서 package를 생성한다**
 
-![Untitled](01%20Servlet%20f54b8/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/80089860/158306830-2b851d15-b2fd-4236-9bad-719fc8c0aafe.png)
 
 1. **위의 실습 사진에서 Servlet은 보통, ‘서블릿 클래스(Servlet class)’라고 부른다**
 
@@ -75,13 +74,13 @@
 
 **(class 눌러서 생성하는 것이 아니다)**
 
-![Untitled](01%20Servlet%20f54b8/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/80089860/158306857-92af8ea6-14b8-47c8-a50c-7237b14348e0.png)
 
 **여기서 Class name에 HelloServlet을 작성 한 후, 원래교육에서는 Next를 눌러 생성해야 하지만,**
 
 **여기서는 Finish를 누르겠다**
 
-![Untitled](01%20Servlet%20f54b8/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/80089860/158306878-588ee5b6-cb31-49e3-8244-6ae650fdf271.png)
 
 **보통 자바에서 Class 다음에 extends Object가 생략되어있다.**
 
@@ -89,7 +88,7 @@
 
 **그래서 ToString 등등의 메소드는 오버라이딩 되고있는 것이다.**
 
-![Untitled](01%20Servlet%20f54b8/Untitled%207.png)
+![Untitled 7](https://user-images.githubusercontent.com/80089860/158306889-d086b677-a990-4d4a-aa73-7286e7043686.png)
 
 📌**위의 사진처럼**
 
@@ -99,7 +98,7 @@
 
 ---
 
-![Untitled](01%20Servlet%20f54b8/Untitled%208.png)
+![Untitled 8](https://user-images.githubusercontent.com/80089860/158306918-95597675-1c02-490d-bd3f-5a4fe4d0f246.png)
 
 📌
 
@@ -111,11 +110,11 @@
 
 **그러면 ‘오버라이드(Override)’는 무엇인가? → 상속관계 = 부모에도 있는함수, 자식에게도 있는함수**
 
-![Untitled](01%20Servlet%20f54b8/Untitled%209.png)
+![Untitled 9](https://user-images.githubusercontent.com/80089860/158306930-b325c4fe-5c8b-4623-920f-cdfb1d7e87d9.png)
 
 **여기서 super는 부모를 말한다 부모 클래스.init();**
 
-![Untitled](01%20Servlet%20f54b8/Untitled%2010.png)
+![Untitled 10](https://user-images.githubusercontent.com/80089860/158306947-32b98187-8cc8-4483-b0da-ce706c4bde2c.png)
 
 **주기함수 위의 사진에서 init()함수를 작성했다.**
 
