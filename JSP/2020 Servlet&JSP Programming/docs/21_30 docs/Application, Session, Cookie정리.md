@@ -202,12 +202,12 @@ Session의 비유
 ---
 
 ```java
-**// <쿠키 객체 2개생성>
+// <쿠키 객체 2개생성>
 			Cookie valueCookie = new Cookie("value", String.valueOf(value));
 			Cookie opCookie = new Cookie("op", op);
 // <쿠키를 Client에게 보낸다>
 			response.addCookie(valueCookie);
-			response.addCookie(opCookie);**
+			response.addCookie(opCookie);
 ```
 
 - **쿠키 객체 생성**
