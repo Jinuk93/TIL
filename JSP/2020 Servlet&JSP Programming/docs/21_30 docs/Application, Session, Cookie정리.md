@@ -240,7 +240,7 @@ Session의 비유
 
 ## Application/Session/Cookie의 차이점 정리
 
-**Application 저장소**
+### Application 저장소
 
 사용범위: 전역범위에서 사용하는 저장 공간
 
@@ -248,7 +248,7 @@ Session의 비유
 
 저장위치: WAS 서버의 메모리
 
-**Session 저장소**
+### Session 저장소
 
 사용범위: 세션 범위에서 사용하는 저장 공간
 
@@ -256,7 +256,7 @@ Session의 비유
 
 저장위치: WAS 서버의 메모리
 
-**Cookie**
+### Cookie
 
 사용범위: Web Browser별 지정한 path 범주 공간
 
