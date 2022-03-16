@@ -45,7 +45,7 @@
           <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/21_30%20docs/24.%20%EC%9E%85%EB%A0%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%B0%9B%EA%B8%B0.md">24. 입력 데이터 배열로 받기</a></li>
           <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/21_30%20docs/25.%20%EC%83%81%ED%83%9C%20%EC%9C%A0%EC%A7%80%EB%A5%BC%20%ED%95%84%EC%9A%94%EB%A1%9C%20%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EC%99%80%20%EA%B5%AC%ED%98%84%EC%9D%98%20%EC%96%B4%EB%A0%A4%EC%9B%80.md">25. 상태 유지를 필요로 하는 경우와 구현의 어려움</a></li>
           <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/21_30%20docs/26.%20Application%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%EA%B7%B8%EA%B2%83%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%83%81%ED%83%9C%20%EA%B0%92%20%EC%A0%80%EC%9E%A5.md">26. Application 객체와 그것을 사용한 상태 값 저장</a></li>
-          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/21_30%20docs/23.%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%EC%9D%98%20Submit%20%EB%B2%84%ED%8A%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md">Application, Session, Cookie 정리</a></li>
+          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/21_30%20docs/Application%2C%20Session%2C%20Cookie%EC%A0%95%EB%A6%AC.md">Application, Session, Cookie 정리</a></li>
    </ul>
 </details>
 
