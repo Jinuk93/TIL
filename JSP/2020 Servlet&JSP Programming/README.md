@@ -47,3 +47,10 @@
           <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/21_30%20docs/23.%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%EC%9D%98%20Submit%20%EB%B2%84%ED%8A%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md">수정바람</a></li>
    </ul>
 </details>
+
+<details>
+  <summary>Servlet 33~39</summary>
+    <ul>
+          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/21_30%20docs/23.%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%EC%9D%98%20Submit%20%EB%B2%84%ED%8A%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md">수정바람</a></li>
+   </ul>
+</details>
