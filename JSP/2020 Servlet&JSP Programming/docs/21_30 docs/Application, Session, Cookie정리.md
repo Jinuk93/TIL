@@ -37,7 +37,7 @@ Application 객체의 범위는 **“전역에서 상태값을 유지”** 할 �
 ### Session
 
 <aside>
-⭐ **Application에서 application을 session으로 변경하면 사용방법은 같다**
+⭐ Application에서 application을 session으로 변경하면 사용방법은 같다
 
 </aside>
 
