@@ -238,7 +238,7 @@ Session의 비유
 
 ---
 
-### 32강 - Application/Session/Cookie의 차이점 정리
+## Application/Session/Cookie의 차이점 정리
 
 **Application 저장소**
 
