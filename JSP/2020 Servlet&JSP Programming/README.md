@@ -38,7 +38,7 @@
 </details>
 
 <details>
-  <summary>Servlet 21~30</summary>
+  <summary>Servlet 21~32</summary>
     <ul>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/11_20_docs/20-1_%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%95%84%ED%84%B0(Servlet%20Filter)%EB%9E%80.md">수정바람</a></li>
    </ul>
