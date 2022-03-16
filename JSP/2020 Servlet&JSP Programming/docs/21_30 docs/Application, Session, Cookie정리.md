@@ -179,7 +179,7 @@ Session의 비유
 
 **로 데이터를 받을 수 있다.**
 
-![Untitled](Applicatio%20e83d5/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/158637706-51a6d0ef-3196-453a-9eb7-2a3be9d72fbc.png)
 
 **addCookie() 메소드 :  쿠키를 사용자(브라우저)에게 보내지는 시작점이 되고(쿠키를 심는다)**
 
