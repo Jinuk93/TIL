@@ -253,8 +253,6 @@ LIMIT 3; = LIMIT 0,3;
 LImIT 3,2; -- 3번째부터 2건만 조회할 수 있다
 ```
 
-[LIMIT (1)](https://www.notion.so/LIMIT-1-c58c1f418eab4f9abf94a8ef37ad3817)
-
 ### DISTINCT 중복제거
 
 **중복된 데이터를 1개만 남깁니다.**
