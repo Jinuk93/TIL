@@ -52,7 +52,10 @@
 <details>
   <summary>Servlet 33~39</summary>
     <ul>
-          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/21_30%20docs/Application%2C%20Session%2C%20Cookie%EC%A0%95%EB%A6%AC.md">수정바람</a></li>
+          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/33.%20%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%98%ED%95%B4%EC%A3%BC%EA%B8%B0(redirection).md">33. 서버에서 페이지 전환해주기(redirection)</a></li>
+        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/34.%20%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80(%EC%84%9C%EB%B2%84%20%ED%8E%98%EC%9D%B4%EC%A7%80)%EC%9D%98%20%ED%95%84%EC%9A%94%EC%84%B1.md">34. 동적인 페이지(서버 페이지)의 필요성</a></li>
+        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/35.%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%9E%90%20%EB%A7%88%EC%A7%80%EB%A7%89%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%84%9C%EB%B8%94%EB%A6%BF%EC%9C%BC%EB%A1%9C%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md">35. 처음이자 마지막으로 동적인 페이지 서블릿으로 직접 만들기</a></li>
+        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/37.%20%EC%BF%A0%ED%82%A4%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md">37. 쿠키 삭제하기</a></li>
    </ul>
 </details>
 
