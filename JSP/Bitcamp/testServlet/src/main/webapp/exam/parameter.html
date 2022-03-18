@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style type="text/css"></style>
+div {
+	font-size : 8pt;
+	color : red;
+	font-weight: bold;
+}
+<script type="text/javascript">
+function goParam(){
+/* 	
+  <name 속성을 이용>
+		if(document.getElementById("name").value() == "") 
+			alert("이름을 입력하세요"); 
+		else if(document.getElementById("age").value() == "")
+			alert("나이를 입력하세요");
+		else
+			document.paramForm.submit(); 
+ 	}
+*/
+
+	//초기화
+	document.getElememtById("nameDiv").innerText=""; //먼저 초기화해준다
+	document.getElememtById("ageDiv").innerText=""; //먼저 초기화해준다3
+	
+	//if(현재문서.풀이름.name속성)
+	if(document.paramForm.name.value == "")
+		//alert("이름을 입력하세요");
+		document.getElememtById("nameDiv").innerText()="이름을 입력하세요";
+	else if(document.paramFrom.age.value == "")
+		//alert("나이를 입력하세요");
+		document.getElememtById("ageDiv").innerText()="나이를 입력하세요";
+	else
+		document.paramForm.submit();
+}	
+</script>
+</head>
+<body>
+<form name=paramForm method="get" action="http://localhost/testServlet/ParamServlet">
+	<table border="1" cellspacing="0" cellpadding="5">
+		<tr>
+			<td width="100" align="center">이름</td>
+			<td><input type="text" name="name" id="name" placeholder="나이를 입력하십시오"></td>
+			<div id="nameDiv"></div>
+		</tr>
+		<tr>
+			<td width="100" align="center">나이</td>
+			<td><input type="text" name="age" id="age" placeholder="이름을 입력하십시오"></td>
+			<div id="ageDiv"></div>
+		</tr>
+		<tr>
+			<td colspan="2" align="center">
+			<input type="button" value="보내기" onclick="goParam()">
+			<input type="reset" value="취소">
+		</tr> 
+	</table>
+</form>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<form name="paramForm" method="get" action="http://localhost:8080/testServlet/CalcServlet">
+<table border="1" cellspacing="0" cellpadding="5">
+	<tr>
+		<td width="100" align="center">X</td>
+		<td><input type="text" name="x" id="x">
+		<div id="xDiv"></div>
+		</td>
+	</tr>
+	<tr>
+		<td width="100" align="center">Y</td>
+		<td><input type="text" name="Y" id="Y">
+		<div id="yDiv"></div>
+		</td>	
+	</tr>
+	<tr>
+		<td colspane="2" align="center">
+			<input type="button" value="계산" onclick="goParam()">
+			<input type="reset" value="취소">
+		</td>
+	</tr>
+</table>
+</form>
+</body>
+</html>
