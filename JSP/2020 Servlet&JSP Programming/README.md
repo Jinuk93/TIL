@@ -9,7 +9,7 @@
 
 ## Servlet
 <details>
-  <summary>JSP 40~44</summary>
+  <summary>Servlet 01~39</summary>
     <ul>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2001_10_docs/01_%ED%95%99%EC%8A%B5%EC%95%88%EB%82%B4.md">01. 학습안내</a></li>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2001_10_docs/02_%EC%9B%B9%20%EC%84%9C%EB%B2%84(Web%20Server)%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%B4%EB%9E%80.md">02. 웹 서버(Web Server) 프로그램이란</a></li>
@@ -64,7 +64,7 @@
 ## JSP
 
 <details>
-  <summary>Servlet 33~39</summary>
+  <summary>JSP 40~44</summary>
     <ul>
           <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/33.%20%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%98%ED%95%B4%EC%A3%BC%EA%B8%B0(redirection).md">40. JSP 시작하기 (Jasper를 이용한 서블릿 프로그래밍)</a></li>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/34.%20%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80(%EC%84%9C%EB%B2%84%20%ED%8E%98%EC%9D%B4%EC%A7%80)%EC%9D%98%20%ED%95%84%EC%9A%94%EC%84%B1.md">41. JSP의 코드 블록</a></li>
