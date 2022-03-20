@@ -3,7 +3,7 @@
 
 [2020 Servlet&JSP Programming 강좌](https://www.youtube.com/watch?v=drCj2k50j_k&list=PLq8wAnVUcTFVOtENMsujSgtv2TOsMy8zd&index=1)
 
-### 개발자로서의 역량이 커질수록 계속해서 반복시청 해봅시다. 안들리고, 이해 안됬던 것들에 대해 '눈이 번쩍! 귀가 번쩍!'
+### 개발자로서의 역량이 커질수록 계속해서 반복시청!
 
 # Table of Content
 
