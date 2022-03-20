@@ -73,3 +73,5 @@
               <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/44.%20%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20JSP.md">44. 스파게티 코드를 만드는 JSP</a></li>
    </ul>
 </details>
+
+## MVC
