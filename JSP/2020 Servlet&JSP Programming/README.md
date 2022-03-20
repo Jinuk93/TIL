@@ -66,10 +66,10 @@
 <details>
   <summary>JSP 40~44</summary>
     <ul>
-          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/33.%20%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%98%ED%95%B4%EC%A3%BC%EA%B8%B0(redirection).md">40. JSP 시작하기 (Jasper를 이용한 서블릿 프로그래밍)</a></li>
-        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/34.%20%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80(%EC%84%9C%EB%B2%84%20%ED%8E%98%EC%9D%B4%EC%A7%80)%EC%9D%98%20%ED%95%84%EC%9A%94%EC%84%B1.md">41. JSP의 코드 블록</a></li>
-        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/35.%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%9E%90%20%EB%A7%88%EC%A7%80%EB%A7%89%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%84%9C%EB%B8%94%EB%A6%BF%EC%9C%BC%EB%A1%9C%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md">42. JSP의 내장객체 간단히 알아보기</a></li>
-        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2033_39%20docs/37.%20%EC%BF%A0%ED%82%A4%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md">43. JSP로 만드는 Hello 서블릿</a></li>
+          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/40.%20JSP%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%20(Jasper%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D).md">40. JSP 시작하기 (Jasper를 이용한 서블릿 프로그래밍)</a></li>
+        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/41.%20JSP%EC%9D%98%20%EC%BD%94%EB%93%9C%20%EB%B8%94%EB%A1%9D.md">41. JSP의 코드 블록</a></li>
+        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/42.%20JSP%EC%9D%98%20%EB%82%B4%EC%9E%A5%EA%B0%9D%EC%B2%B4%20%EA%B0%84%EB%8B%A8%ED%9E%88%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md">42. JSP의 내장객체 간단히 알아보기</a></li>
+        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/43.%20JSP%EB%A1%9C%20%EB%A7%8C%EB%93%9C%EB%8A%94%20Hello%20%EC%84%9C%EB%B8%94%EB%A6%BF.md">43. JSP로 만드는 Hello 서블릿</a></li>
               <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/44.%20%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20JSP.md">44. 스파게티 코드를 만드는 JSP</a></li>
    </ul>
 </details>
