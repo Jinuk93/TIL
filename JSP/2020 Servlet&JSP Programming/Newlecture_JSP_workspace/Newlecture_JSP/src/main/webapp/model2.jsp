@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%=result %>입니다
+	<%=request.getAttribute("r") %>입니다
 </body>
 </html>
