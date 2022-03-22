@@ -1,7 +1,5 @@
 # 서블릿 클래스 생성시, Javax.servlet import 오류
 
----
-
 ![https://blog.kakaocdn.net/dn/brauzv/btqDKUikFgi/9pWs07jVlRZI84mG1JnjxK/img.png](https://blog.kakaocdn.net/dn/brauzv/btqDKUikFgi/9pWs07jVlRZI84mG1JnjxK/img.png)
 
 **이클립스에서 HttpServlet 를 사용하려고 할때 javax.servlet import가 안될때가 있다.**
