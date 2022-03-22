@@ -79,7 +79,7 @@
 <details>
   <summary>MVC 45~49</summary>
     <ul>
-          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/40.%20JSP%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%20(Jasper%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D).md">45. JSP MVC model1</a></li>
+          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/45.%20JSP%20MVC%20model1.md">45. JSP MVC model1</a></li>
             <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/46.%20JSP%20MVC%20model1%EC%9D%84%20model2%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C.md">46. JSP MVC model1을 model2 방식으로</a></li>
     </ul>
 </details>
