@@ -81,6 +81,6 @@
     <ul>
           <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/45.%20JSP%20MVC%20model1.md">45. JSP MVC model1</a></li>
             <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/46.%20JSP%20MVC%20model1%EC%9D%84%20model2%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C.md">46. JSP MVC model1을 model2 방식으로</a></li>
-                  <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/46.%20JSP%20MVC%20model1%EC%9D%84%20model2%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C.md">47강. View를 위한 데이터 추출 표현식 EL (Expression Language)</a></li>
+                  <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/47%EA%B0%95.%20View%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EC%B6%9C%20%ED%91%9C%ED%98%84%EC%8B%9D%20EL%20(Expression%20Language).md">47강. View를 위한 데이터 추출 표현식 EL (Expression Language)</a></li>
     </ul>
 </details>
