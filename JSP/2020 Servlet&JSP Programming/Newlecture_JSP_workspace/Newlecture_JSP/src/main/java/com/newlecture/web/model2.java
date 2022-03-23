@@ -1,6 +1,8 @@
 package com.newlecture.web;
 
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -30,7 +32,16 @@ public class model2 extends HttpServlet {
 	request.setAttribute("r", result); 
 	//서블릿단에서 result를 r이란 이름으로 담아두었다 -> JSP(뷰)에 작업물을 이전시키기 위해서!
 	// JSP단에서 꺼내고 싶을 때, r이란 이름으로 result 변수를 가져다 쓸 수 있다
-		
+	
+	String[] names = {"newlec", "dragon"};
+	request.setAttribute("names", names);
+	
+	Map<String, Object> notice = new HashMap<String, Object>();
+ 	notice.put("id",1 );
+ 	notice.put("title", "EL표기법!");
+	request.setAttribute("notice", notice);
+	//Map에 변수를 담고 JSP확장자에서 EL표기법으로 출력할 것이다
+	
 	RequestDispatcher dispatcher 
 		= request.getRequestDispatcher("model2.jsp");
 	dispatcher.forward(request, response); 
