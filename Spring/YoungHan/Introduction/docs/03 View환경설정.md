@@ -180,13 +180,10 @@ public class HelloController {
 
 ### 동작환경그림
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%2016.png)
-
 - **컨트롤러에서 리턴 값으로 문자를 반환하면 뷰 리졸버( viewResolver )가 화면을 찾아서 처리한다.**
     - **스프링 부트 템플릿엔진 기본 viewName 매핑**
     - **resources:templates/ +{ViewName}+ .html**
     
-
 ---
 
 참고: 
