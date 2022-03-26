@@ -24,11 +24,11 @@ Hello
 
 Welcome-Page라고 표현한다
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/160245027-bc040899-58e8-4f36-a203-ddb36237614d.png)
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/160245029-ce54816c-55bf-419e-84ae-c0a1bdfd3cf8.png)
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/80089860/160245030-a83efed3-0c9e-4351-85de-a9ab0245b78c.png)
 
 *File을 눌러서 생성한다*
 
@@ -40,7 +40,7 @@ Welcome-Page라고 표현한다
 
 ### 실행결과
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/80089860/160245040-c3cea31b-7800-4978-b306-16962e980220.png)
 
 ---
 
@@ -60,7 +60,7 @@ Welcome-Page라고 표현한다
 - 스프링부트 메뉴얼: [https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/reference/](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/reference/)
 html/spring-boot-features.html#boot-features-spring-mvc-template-engines
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/80089860/160245061-2071db83-79ad-4480-80fb-e905d24c6d3a.png)
 
 *아래는 컨트롤러 코드*
 
@@ -98,46 +98,48 @@ public class HelloController {
 
 ---
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/80089860/160245073-ec966e90-ee65-4bb7-a50a-6cc77d0359b1.png)
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/80089860/160245075-579bf86c-6c7b-487e-a3ee-fb7abbeccf38.png)
+
+![Untitled 7](https://user-images.githubusercontent.com/80089860/160245077-d352d268-7a6a-4ba4-b4bb-5d783991133d.png)
 
 1. 먼저 패키지를 새로 생성한다
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%207.png)
+![Untitled 8](https://user-images.githubusercontent.com/80089860/160245079-40301041-b64d-41f2-b596-352b07060bc0.png)
 
 1. HelloController 라는 클래스를 만든다
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%208.png)
+![Untitled 9](https://user-images.githubusercontent.com/80089860/160245085-bebb2f18-b089-4d70-90a1-dc715d3ab8e0.png)
 
 1. 위처럼 컨트롤러의 코드를 작성한다
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%209.png)
+![Untitled 10](https://user-images.githubusercontent.com/80089860/160245089-5295e6c4-ea87-496e-a2b2-2a30d1789b1b.png)
 
 1. 템플릿에서 file 만들기를 누르고 hello.html을 생성한다
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%2010.png)
+![Untitled 11](https://user-images.githubusercontent.com/80089860/160245099-708ef7f5-6ac6-4786-8055-c13bd1233a22.png)
 
 1. 위에 있는 html 코드를 복사 붙여넣기 한다
 - 사진에서 상단을 보면 알겠지만, ‘타임리프’의 템플릿 엔진이 선언되있는것을 알 수 있다.
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%2011.png)
+![Untitled 12](https://user-images.githubusercontent.com/80089860/160245105-21fdb4dd-c3f6-470c-a1e6-3b612125a68d.png)
 
 위 컨트롤러에서의 data와
 
 아래 htm에서의 data가 같다
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%2012.png)
+![Untitled 13](https://user-images.githubusercontent.com/80089860/160245109-1a333e55-d5b3-4dcb-b2cd-1dae5814424c.png)
 
 그리고, html에서 data는 컨트롤러에서 data의 value값인 hello로 값을 가져올것이다.
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%2013.png)
+![Untitled 14](https://user-images.githubusercontent.com/80089860/160245118-a85fae24-49fe-4ef9-943f-f2d661e1fb07.png)
 
 ### 실행결과
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%2014.png)
+![Untitled 15](https://user-images.githubusercontent.com/80089860/160245127-9c3769d1-3f50-4058-9279-014e2e613938.png)
 
-![Untitled](03%20View%E1%84%92%E1%85%AA%E1%86%AB%20b92d6/Untitled%2015.png)
+![Untitled 16](https://user-images.githubusercontent.com/80089860/160245130-991005f3-40b9-4fa3-aee4-8418b7c538f5.png)
 
 ```java
 
