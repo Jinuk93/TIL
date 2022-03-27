@@ -7,7 +7,7 @@
 >  
 백준 기준 실버, 골드레벨
 
- ---
+ <br><br>
 
 
 - 백준과 프로그래머스 병행공부
@@ -22,7 +22,7 @@
     - 중급 : Priority Queue,  DFS, BFS, 완전탐색, Binary search, Recursion
     - 심화 : Graph, DP
 
----
+ <br><br>
 
 - **알고리즘 문제은행 사이트**
 
@@ -32,7 +32,7 @@
 
 3. **프로그래머스**: [https://programmers.co.kr/](https://programmers.co.kr/)
 
----
+ <br><br>
  
 - **추천 알고리즘 강의 동영상**
 
@@ -42,7 +42,7 @@
 
 3. 동빈나 알고리즘 강의: [https://www.youtube.com/playlist?list](https://www.youtube.com/playlist?list)
 
- ---
+ <br><br>
  
 ### 참고
 
