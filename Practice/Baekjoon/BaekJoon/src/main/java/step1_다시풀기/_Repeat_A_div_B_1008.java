@@ -21,7 +21,7 @@ public class A_div_B_1008_repeat {
 	}
 }
 */
-package step1_다시풀기_;
+package step1_다시풀기;
 
 import java.util.Scanner;
 

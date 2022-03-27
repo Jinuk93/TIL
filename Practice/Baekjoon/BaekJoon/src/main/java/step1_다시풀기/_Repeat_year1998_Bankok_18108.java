@@ -10,7 +10,7 @@ ICPC Bangkok Regional에 참가하기 위해 수완나품 국제공항에 막 도착한 팀 레드시프�
 출력
 불기 연도를 서기 연도로 변환한 결과를 출력한다.
 */
-package step1_다시풀기_;
+package step1_다시풀기;
 
 import java.util.Scanner;
 

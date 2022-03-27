@@ -1,5 +1,5 @@
 //문제는 홈페이지에서 봐야한다
-package step1_다시풀기_;
+package step1_다시풀기;
 
 import java.util.Scanner;
 
