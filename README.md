@@ -24,5 +24,6 @@
 
 ## ETC
 - TechTalk (예정)
+- Interview (예정)
 - Copy (예정)
 - [Error](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
