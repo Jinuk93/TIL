@@ -17,7 +17,7 @@
 
 ## Spring
 - 김영한
-  - [스프링 입문](https://github.com/Jinuk93/TIL/tree/master/Spring/YoungHan/Introduction/docs)
+  - [스프링 입문](https://github.com/Jinuk93/TIL/blob/master/Spring/YoungHan/Introduction/README.md)
   
 ## ETC
 - [ERROR](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
