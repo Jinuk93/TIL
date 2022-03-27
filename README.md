@@ -14,8 +14,6 @@
 ## Servlet&JSP
   - [Bitcamp](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/README.md)
   - [2020 Servlet&JSP Programming](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/README.md)
-
-## Spring
   
 ## 운영체제
 - [운영체제](https://github.com/Jinuk93/TIL/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/README.md)
