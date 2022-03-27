@@ -23,4 +23,6 @@
 - [운영체제](https://github.com/Jinuk93/TIL/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/README.md)
 
 ## ETC
-- [ERROR](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
+- TechTalk (예정)
+- Clone (예정)
+- [Error](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
