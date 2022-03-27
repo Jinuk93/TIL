@@ -20,5 +20,5 @@
   - [스프링 입문](https://github.com/Jinuk93/TIL/tree/master/Spring/YoungHan/Introduction/docs)
   
 ## ETC
-- [Error](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
-- Clone Coding
+- [ERROR](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
+- 따라하기
