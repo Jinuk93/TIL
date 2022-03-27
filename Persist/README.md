@@ -1,3 +1,4 @@
+### FAQ
 > **코딩테스트는 언제 준비?**
 > 
 
@@ -8,6 +9,8 @@
 백준 기준 실버, 골드레벨
 
 <br>
+
+### 공부 방법 및 순서
 
 - 백준과 프로그래머스 병행공부
 - 순서
@@ -23,7 +26,7 @@
 
 <br>
 
-- **알고리즘 문제은행 사이트**
+### 알고리즘 문제은행 사이트
 
 1. **백준** : [https://www.acmicpc.net/](https://www.acmicpc.net/)
 
@@ -31,9 +34,9 @@
 
 3. **프로그래머스**: [https://programmers.co.kr/](https://programmers.co.kr/)
 
- <br><br>
+<br>
  
-- **추천 알고리즘 강의 동영상**
+### 추천 알고리즘 강의 동영상
 
 1. mycodeschool: [https://www.youtube.com/user/mycodesc](https://www.youtube.com/user/mycodesc...)
 
