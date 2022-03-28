@@ -1,4 +1,7 @@
 /*
+제목
+1998년생인 내가 태국에서는 2541년생?!
+
 문제
 ICPC Bangkok Regional에 참가하기 위해 수완나품 국제공항에 막 도착한 팀 레드시프트 일행은 눈을 믿을 수 없었다. 공항의 대형 스크린에 올해가 2562년이라고 적혀 있던 것이었다.
 
@@ -10,9 +13,9 @@ ICPC Bangkok Regional에 참가하기 위해 수완나품 국제공항에 막 도착한 팀 레드시프�
 출력
 불기 연도를 서기 연도로 변환한 결과를 출력한다.
 */
-package step1_입출력과_사칙계산;
+package step1_입출력과사칙계산;
 
-public class year1998_Bankok_18108 {
+public class print_서기_18108 {
 	public static void main(String[] args) {
 		
 	}

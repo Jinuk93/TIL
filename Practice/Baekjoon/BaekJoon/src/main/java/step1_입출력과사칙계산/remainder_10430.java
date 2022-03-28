@@ -1,4 +1,7 @@
 /*
+제목
+나머지
+
 문제
 (A+B)%C는 ((A%C) + (B%C))%C 와 같을까?
 
@@ -12,11 +15,11 @@
 출력
 첫째 줄에 (A+B)%C, 둘째 줄에 ((A%C) + (B%C))%C, 셋째 줄에 (A×B)%C, 넷째 줄에 ((A%C) × (B%C))%C를 출력한다.
 */
-package step1_입출력과_사칙계산;
+package step1_입출력과사칙계산;
 
 import java.util.Scanner;
 
-public class div_10430 {
+public class remainder_10430 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int A = sc.nextInt();
