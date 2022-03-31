@@ -58,15 +58,12 @@ Java EE의 대부분의 기능을 Spring으로 사용가능하다
 
 **interface는 반드시 함수의 몸체가 비어야 하고, 이를 구현하는 쪽에서 override 할 것**
 
-1. ***Transaction Management***
+2. ***Transaction Management***
 
 **Transaction이란, 작업이 한 번 작동할 때마다 움직이는 ‘처리단위’를 뜻한다**
 
 - **Atomicity** : 전체 작업이 모두 성공하거나, 모두 실패해야만 한다
 - **Consistency** : data 일관성을 위해 primary key가 table에 존재해야 한다
 - **Isolation** : 트랜잭션 processing 시, 동일한 시간내에 중복된 data set이 작업될 수 있다
-
-data corruption을 막기 위해 각 transaction은 고
-
 - **Programmatic** : 프로그래밍 방식으로 우리가 직접 제어한다. 매우 유연하나, 유지가 어렵다
 - **Declarative** : 우리는 annotation을 통한 제어 혹은 XML파일 설정 기반으로한 제어만 수행하면 된다 이 방식은 덜 유연하나, Spring AOP를 통해 모듈화가 더 쉽다는 장점이 있다
