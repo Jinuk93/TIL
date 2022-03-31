@@ -32,7 +32,7 @@
 > Java SE + Spring 을 사용하여 웹개발
 > 
 
-Java EE(**Enterprise Edition)**와 함께 사용하는 경우도 있지만
+Java EE(Enterprise Edition)와 함께 사용하는 경우도 있지만
 
 Java EE의 대부분의 기능을 Spring으로 사용가능하다
 
