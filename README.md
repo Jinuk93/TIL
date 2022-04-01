@@ -15,7 +15,7 @@
   - [2020 Servlet&JSP Programming](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/README.md)
 
 ## Spring
-- [Spring](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Summary/README.md)
+- [Spring](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/README.md)
 - [Spring Framework Lecture ALL](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Framework%20ALL/README.md)
   
 ## 운영체제
