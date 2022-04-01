@@ -91,5 +91,3 @@ Framework와 Library 각각을 알아보고, 이 둘의 차이까지 한번 알�
 **당연하게도 처음부터 혼자 다 만드는 것보단 남이 만들어놓은 것을 사용할 수 있다면 사용하는게 훨씬 빠르고 성능도 좋기 때문이다.** 
 
 **추가로, 회사 입장에서는 품질에 개인이 미치는 영향을 최소화하여 일정한 품질을 보장할 수 있다.**
-
-- *참조blog : [https://joychae.tistory.com/26?category=470511](https://joychae.tistory.com/26?category=470511)*
