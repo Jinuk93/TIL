@@ -1,5 +1,5 @@
 
-# NewLecture 2020 Servlet&JSP Programming
+# 2020 Servlet&JSP Programming
 
 # Table of Content
 
