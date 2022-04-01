@@ -1,4 +1,4 @@
-# NewLecture Spring Framework Lecture ALL
+# Spring Framework Lecture ALL
 
 # Table of Content
 
