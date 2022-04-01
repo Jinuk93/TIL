@@ -1,9 +1,7 @@
 
 # 2020 Servlet&JSP Programming
 
-## Table of Content
-
-### Servlet
+## Servlet
 <details>
   <summary>Servlet 01~10</summary>
     <ul>
@@ -57,7 +55,7 @@
    </ul>
 </details>
 
-### JSP
+## JSP
 
 <details>
   <summary>JSP 40~44</summary>
@@ -70,7 +68,7 @@
    </ul>
 </details>
 
-### MVC
+## MVC
 
 <details>
   <summary>MVC 45~49</summary>
