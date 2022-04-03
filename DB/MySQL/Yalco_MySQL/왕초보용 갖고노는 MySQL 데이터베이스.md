@@ -1,7 +1,5 @@
 # 왕초보용! 갖고 노는 MySQL 데이터베이스 강좌
 
-[왕초보용! 갖고 노는 MySQL 데이터베이스 강좌](https://www.youtube.com/watch?v=dgpBXNa9vJc)
-
 # Section 0. INTRO
 
 ## *MySQL은 가장 널리 쓰이는 RDBMS이다*
