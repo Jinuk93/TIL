@@ -22,5 +22,5 @@
 - [운영체제](https://github.com/Jinuk93/TIL/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/README.md)
 
 ## ETC
-- [프로젝트로 공부하는 MVC2 model](https://github.com/Jinuk93/TIL/blob/master/ETC/MVC2%20model%20studying%20as%20a%20project.md)
+- [프로젝트로 공부하는 MVC model2](https://github.com/Jinuk93/TIL/blob/master/ETC/MVC2%20model%20studying%20as%20a%20project.md)
 - [Error](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
