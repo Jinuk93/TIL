@@ -23,3 +23,4 @@
 
 ## ETC
 - [Error](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
+- [프로젝트로 공부하는 MVC2 model](https://github.com/Jinuk93/TIL/blob/master/ETC/MVC2%20model%20studying%20as%20a%20project.md)
