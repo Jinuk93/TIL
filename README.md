@@ -22,5 +22,6 @@
 - [운영체제](https://github.com/Jinuk93/TIL/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/README.md)
 
 ## ETC
-- [프로젝트로 공부하는 MVC model2] 공사중
+- [Project Review]
+  - [EunhaSoop](https://github.com/Jinuk93/TIL/blob/master/ETC/Study/EunhaSoop%20project%20review.md)
 - [Error](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
