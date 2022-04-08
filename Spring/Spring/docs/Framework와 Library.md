@@ -31,6 +31,8 @@ Framework와 Library 각각을 알아보고, 이 둘의 차이까지 한번 알�
 - **객체 지향 개발에서 통합성, 일관성을 보완할 수 있다**
 - **프레임워크 종류에는** **Spring(Java), Django(Python), Flask(Python), Ruby on rails(Ruby), .NET Framwork, Node.js(Express.js)**
 
+---
+
 ### **Library**
 
 **단순 활용가능한 도구들의 집합이다.**
