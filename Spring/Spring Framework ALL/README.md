@@ -1,4 +1,4 @@
-# 스프링 프레임워크 강의 ALL
+# Spring Framework Lecture ALL
 
 ## Part1. DI(Dependency Injection)
 
