@@ -6,5 +6,5 @@
 - [두번째 수업](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/docs/02.md)
 - [세번째 수업](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/docs/03.md)
 - [네번째 수업](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/docs/04.md)
-- [다섯,여섯,일곱번째 수업](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/docs/05_06_07.md)
+- [다섯번째 수업](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/docs/05_06_07.md)
 - [여덟번째 수업](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/docs/08.md)
