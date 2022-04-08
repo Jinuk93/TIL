@@ -15,7 +15,7 @@
   - [2020 Servlet&JSP Programming](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/README.md)
 
 ## Spring
-- Spring
+- Topic
   - [Framework, Library](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/docs/Framework%EC%99%80%20Library.md)
   - [DTO, DAO](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/docs/DTO%2C%20DAO.md) 
 - [Spring Framework Lecture ALL](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Framework%20ALL/README.md)
