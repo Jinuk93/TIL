@@ -23,7 +23,7 @@
 ## OS
 - [Operating System](https://github.com/Jinuk93/TIL/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/README.md)
 
-## ETC
+## Etc
 - Code Review
   - [EunhaSoop ](https://github.com/Jinuk93/TIL/blob/master/ETC/Study/EunhaSoop%20project%20review.md)
 - [Error](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
