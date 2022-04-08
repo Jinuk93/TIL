@@ -58,6 +58,8 @@ Java EE의 대부분의 기능을 Spring으로 사용가능하다
 
 **interface는 반드시 함수의 몸체가 비어야 하고, 이를 구현하는 쪽에서 override 할 것**
 
+<br>
+
 2. ***Transaction Management***
 
 **Transaction이란, 작업이 한 번 작동할 때마다 움직이는 ‘처리단위’를 뜻한다**
