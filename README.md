@@ -25,5 +25,5 @@
 
 ## Etc
 - Code Review
-  - [EunhaSoop ](https://github.com/Jinuk93/TIL/blob/master/ETC/Study/EunhaSoop%20project%20review.md)
+  - [EunhaSoop Project](https://github.com/Jinuk93/TIL/blob/master/ETC/Study/EunhaSoop%20project%20review.md)
 - [Error](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
