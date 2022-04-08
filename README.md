@@ -18,7 +18,7 @@
 - Spring
   - [Framework, Library](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/docs/Framework%EC%99%80%20Library.md)
   - [DTO, DAO](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/docs/DTO%2C%20DAO.md) 
-- [스프링 프레임워크 강의 ALL](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Framework%20ALL/README.md)
+- [Spring Framework Lecture ALL](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Framework%20ALL/README.md)
   
 ## OS
 - [Operating System](https://github.com/Jinuk93/TIL/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/README.md)
