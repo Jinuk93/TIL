@@ -18,7 +18,7 @@
 - [Spring](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/README.md)
 - [스프링 프레임워크 강의 ALL](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Framework%20ALL/README.md)
   
-## 운영체제
+## OS
 - [운영체제](https://github.com/Jinuk93/TIL/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/README.md)
 
 ## ETC
