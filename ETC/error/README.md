@@ -1,5 +1,5 @@
 ## Github
-- [branch명을 main→master 혹은 master→main으로 변경하기](https://github.com/Jinuk93/TIL/blob/master/ETC/error/Github/branch%EB%AA%85%EC%9D%84%20main%E2%86%92master%20%ED%98%B9%EC%9D%80%20master%E2%86%92main%EC%9C%BC%EB%A1%9C%20%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0.md)
+- [Branch명을 main→master 혹은 master→main으로 변경하기](https://github.com/Jinuk93/TIL/blob/master/ETC/error/Github/branch%EB%AA%85%EC%9D%84%20main%E2%86%92master%20%ED%98%B9%EC%9D%80%20master%E2%86%92main%EC%9C%BC%EB%A1%9C%20%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0.md)
 
 
 ## Servlet
