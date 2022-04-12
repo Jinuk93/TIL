@@ -27,10 +27,3 @@
 4. github 화면의 저장소 정보가 **main** 으로 바뀐 것을 확인할 수 있습니다.
     
     ![https://www.lesstif.com/gitbook/files/100205686/100205747/1/1611979033000/image2021-1-30_12-57-13.png](https://www.lesstif.com/gitbook/files/100205686/100205747/1/1611979033000/image2021-1-30_12-57-13.png)
-    
-
-local 에 저장소를 clone 한 경우 다음과 같이 기본 저장소 이름을 바꿔줘야 합니다.
-
-`git branch -m master main
-git fetch origin
-git branch -u origin/main main`
