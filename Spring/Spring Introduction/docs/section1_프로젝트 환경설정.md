@@ -8,22 +8,23 @@
 
 ### 1. 설치
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/163218020-23b1dc85-549a-4925-8335-3af5167d4252.png)
+
 
 ### 2. Spring Framework 훑어보기
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/163218069-8eec6016-ab61-4d10-b4e6-3d6f12ef902c.png)
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/80089860/163218074-8c40d0e0-b909-447d-bdd0-57a644856461.png)
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/80089860/163218083-8255422c-0bef-4233-9c95-16015fedb8c7.png)
 
 ### Gradle JDK 설정
 
 - Windows: File -> Settings(Ctrl+Alt+S)
 - Mac: IntelliJ IDEA | Preferences(⌘,)
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/80089860/163218100-94721a83-1525-4308-b5fa-1eab14d18267.png)
 
 ---
 
@@ -31,9 +32,9 @@
 
 ### 땡겨온 라이브러리 보는법
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/80089860/163218116-f8eeb60a-ac7d-4e29-b658-09b793d36078.png)
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/80089860/163218127-5a859526-e7a0-4235-aa60-a052edf0f43f.png)
 
 ### Gradle이나 Maven 같은 tool들은 의존 관계를 정리해준다
 
@@ -46,7 +47,7 @@
 
 **아래 사진을 참조해보자. 라이브러리가 다른 라이브러리를 땡겨왔다는것을 볼 수 있다(의존관계)**
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%207.png)
+![Untitled 7](https://user-images.githubusercontent.com/80089860/163218147-782ddfb9-ecbd-4e47-9098-87ab93f6449b.png)
 
 ![https://blog.kakaocdn.net/dn/bbLxr3/btruXYMak6R/7MtOEQdfzCh1EE8grcALnK/img.png](https://blog.kakaocdn.net/dn/bbLxr3/btruXYMak6R/7MtOEQdfzCh1EE8grcALnK/img.png)
 
@@ -67,15 +68,15 @@
 
 - 자바 진영에서 테스트를 할 때 junit이라는 것을 많이 사용한다.
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%208.png)
+![Untitled 8](https://user-images.githubusercontent.com/80089860/163218176-35ba339a-f371-49d4-ae56-182295d0b291.png)
 
 - spring-test : spring과 통합해서 테스트할 수 있도록 도와주는 라이브러리
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%209.png)
+![Untitled 9](https://user-images.githubusercontent.com/80089860/163218194-4939f0bd-8206-4a57-94c1-4274d2b02f05.png)
 
 ### <라이브러리 살펴보기> 정리
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2010.png)
+![Untitled 10](https://user-images.githubusercontent.com/80089860/163218210-8d8ce92a-4941-43fe-94e9-959990f07557.png)
 
 ---
 
@@ -85,7 +86,7 @@
 
 1. **static 폴더에서 New File → index.html을 만든다**
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2011.png)
+![Untitled 11](https://user-images.githubusercontent.com/80089860/163218224-2ff3bd64-bd4e-424f-b91b-82bcb005bd38.png)
 
 ```html
 <!DOCTYPE HTML>
@@ -103,7 +104,7 @@ Hello
 
 ### *결과*
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2012.png)
+![Untitled 12](https://user-images.githubusercontent.com/80089860/163218246-ac438ba9-b56e-4add-849c-b582f1bda05e.png)
 
 ### *이거에 관련된 주절주절*
 
@@ -111,7 +112,7 @@ Hello
 
 - welcome page를 만들고자 할 때, 관련된 정보를 어떻게 찾지?
     
-    ![Untitled](section1%20%E1%84%91%20290cf/Untitled%2013.png)
+    ![Untitled 13](https://user-images.githubusercontent.com/80089860/163218269-1f796810-fee9-4f23-be85-1c76a5333d48.png)
     
 
 ### 결국, 메뉴얼에서 검색을 할 줄 알아야 한다
@@ -124,11 +125,9 @@ Hello
 
 1. **Controller를 만들 것이다.**
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2014.png)
+![Untitled 14](https://user-images.githubusercontent.com/80089860/163218304-07c746a2-d445-41bb-b8d7-57ab8644361a.png)
 
-1. 컨
-
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2015.png)
+![Untitled 15](https://user-images.githubusercontent.com/80089860/163218331-003b4bfd-f957-4868-b417-d271d62e0909.png)
 
 아래의 사진들을 보자
 
@@ -136,9 +135,9 @@ Hello
 
 **그 이유는 위의 컨트롤러 사진에서 attributeName을 “data”로 지정해두었기 때문이다.**
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2016.png)
+![Untitled 16](https://user-images.githubusercontent.com/80089860/163218383-aad304e1-0dd5-4f50-9c86-b83eae0b8f37.png)
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2017.png)
+![Untitled 17](https://user-images.githubusercontent.com/80089860/163218407-9cb0f992-0277-4032-a3b0-e04661191ff7.png)
 
 위의 코드에 대한 동작하는 구조를 그림으로 살펴보자
 
@@ -146,11 +145,11 @@ Hello
 
 ### 📌이 위에 대한 그림구조는 Servlet/JSP에서 공부했던 MVC model를 이해하면 이해하기 쉽다
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2018.png)
+![Untitled 18](https://user-images.githubusercontent.com/80089860/163218435-678dc853-7042-4715-858d-5258a1798c0c.png)
 
 →
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2019.png)
+![Untitled 19](https://user-images.githubusercontent.com/80089860/163218460-b49b0d11-ced5-4fb3-a16f-a8f325e88d06.png)
 
 📌**중요**
 
@@ -184,4 +183,4 @@ Hello
 
 ### 성공화면(?)
 
-![Untitled](section1%20%E1%84%91%20290cf/Untitled%2020.png)
+![Untitled 20](https://user-images.githubusercontent.com/80089860/163218480-33c1ee0e-59dd-441e-9972-90c2b235cb26.png)
