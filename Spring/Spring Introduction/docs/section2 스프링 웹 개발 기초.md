@@ -21,10 +21,10 @@ MVC는 Model(데이터) View(JSP단) Controller(컨트롤러)로 구분된다
 
 @RequestParam이라는 어노테이션(Annotation)을 사용하여 파라미터(인자)를 받을 수 있다.
 
-![Untitled](section2%20%E1%84%89%20421d8/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/163218641-66ed70cf-2cea-4be7-96cc-47424e254f62.png)
 
 ### 3. API
 
 - ***JSON이라는 데이터 구조 포맷을 이용해서 클라이언트한테 전달해주는 방식을 요즘 API방식이라고 부른다.***
 
-![Untitled](section2%20%E1%84%89%20421d8/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/80089860/163218658-c08a1539-e71c-475b-997d-706a733f0aa8.png)
