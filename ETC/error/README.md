@@ -9,4 +9,4 @@
 - [RUN 할 때, 뜨는 오류](https://github.com/Jinuk93/TIL/blob/master/ETC/error/Tomcat/%EC%8B%A4%ED%96%89%20%EC%8B%9C%2C%20%EB%9C%A8%EB%8A%94%20%EC%98%A4%EB%A5%98%ED%99%94%EB%A9%B4.md)
 
 ## IntelliJ 
-- [폴더들이 빨갛게 보이는 이유](https://github.com/Jinuk93/TIL/blob/master/ETC/error/Tomcat/%EC%8B%A4%ED%96%89%20%EC%8B%9C%2C%20%EB%9C%A8%EB%8A%94%20%EC%98%A4%EB%A5%98%ED%99%94%EB%A9%B4.md)
+- [폴더들이 빨갛게 보이는 이유](https://github.com/Jinuk93/TIL/blob/master/ETC/error/Intellij/%ED%8F%B4%EB%8D%94%EB%93%A4%EC%9D%B4%20%EB%B9%A8%EA%B0%9B%EA%B2%8C%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
