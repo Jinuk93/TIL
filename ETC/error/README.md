@@ -6,11 +6,11 @@
 - [Branch명을 main→master 혹은 master→main으로 변경하기](https://github.com/Jinuk93/TIL/blob/master/ETC/error/Github/branch%EB%AA%85%EC%9D%84%20main%E2%86%92master%20%ED%98%B9%EC%9D%80%20master%E2%86%92main%EC%9C%BC%EB%A1%9C%20%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0.md)
 
 <details>
-  <summary>Git과 Github의 차이</summary>
-    <ul>
+<summary>Git과 Github의 차이</summary>
+<ul>
 <br>
 📌버전 관리<br>
-개발자 간의 협업을 위해 전체 개발 소스를 공유하면서 개발 파트를 나눌 수 있고 같은 모듈을 개발하더라도 소스를 공유하며 개발할 수 있기 때문!<br>
+개발자 간의 협업을 위해 전체 개발 소스를 공유하면서 개발 파트를 나눌 수 있고 같은 모듈을 개발하더라도 소스를 공유하며 개발할 수 있기 때문!<br><br>
 📌 Git<br>
 오픈 소스 버전 관리 시스템(VCS: Version Control System)<br>
 로컬에서 버전 관리<br>
