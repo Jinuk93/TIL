@@ -1,4 +1,4 @@
-# branch명을 main→master 혹은 master→main으로 변경하기
+# Branch명을 main→master 혹은 master→main으로 변경하기
 
 ## *main에서 master로도 변경이 가능하다. 아래의 설명은 master에서 main으로 변경하는 방법이다.*
 
