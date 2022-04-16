@@ -18,8 +18,7 @@
 ## Spring
 - [Spring Topic](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/docs/README.md)
 - [스프링 프레임워크 강의 ALL](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Framework%20ALL/README.md)
-- 김영한 
-  - [Spring Introduction](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Introduction/README.md)
+- [Spring Introduction](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Introduction/README.md)
 
   
 ## OS
