@@ -87,4 +87,4 @@ A a = new A(b);
 
 *즉  **Inversion(역순)으로 생성하는 컨테이너이므로 IoC 컨테이너**라고 한다.*
 
-![Untitled](04%20IoC(Inv%2063844/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/80089860/163683013-c3b726a0-ac73-4105-9300-7b58c257e6be.png)
