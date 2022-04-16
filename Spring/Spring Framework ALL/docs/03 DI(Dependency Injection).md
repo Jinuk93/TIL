@@ -15,7 +15,7 @@ class A
     private B b;    // B는 A의 종속되어 있다. B는 A의 부품이다.
 		    // B는 종속객체.종속성 == 부품
     public A(){
-     *b = new B();   // 직접 만들어 끼우는 일체형 부품
+     b = new B();   // 직접 만들어 끼우는 일체형 부품
  // 클래스 A를 만들 때, B도 따라 만들어진다 (일체형처럼)
     }
   }
@@ -47,7 +47,7 @@ class B
 *단점의 예시*
 
 ```html
-B b = new B(); // **부품(dependency)**
+B b = new B(); // 부품(dependency)
 A a = new A(); // A입장에서 B는 부품이다
 
 a.setB(b); // 이렇게 직접 부품을 꽃아주어야 한다 B를 a에다가 조립(주입)
@@ -59,7 +59,7 @@ a.setB(b); // 이렇게 직접 부품을 꽃아주어야 한다 B를 a에다가 
 
 ![Untitled](https://user-images.githubusercontent.com/80089860/163683053-a3fe9b43-a434-4ad7-b036-58645c43e107.png)
 
-1. *생성자를 통해 조립할 수 있다*
+2. *생성자를 통해 조립할 수 있다*
 
 ![Untitled 1](https://user-images.githubusercontent.com/80089860/163683057-bb214083-76ed-4b3d-ac77-9d0f4216e856.png)
 
