@@ -16,9 +16,7 @@
   - [Servlet&JSP 프로그래밍](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/README.md)
 
 ## Spring
-- Topic
-  - [Framework, Library](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/docs/Framework%EC%99%80%20Library.md)
-  - [DTO, DAO](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/docs/DTO%2C%20DAO.md)
+- [Topic](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring/docs/README.md)
 - 김영한 
   - [Spring Introduction](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Introduction/README.md)
 - [스프링 프레임워크 강의 ALL](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Framework%20ALL/README.md)
