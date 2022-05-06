@@ -13,7 +13,6 @@
 
 ## Servlet&JSP
   - [JSP](https://github.com/Jinuk93/TIL/blob/master/JSP/JSP/README.md)
-  - [Bitcamp](https://github.com/Jinuk93/TIL/blob/master/JSP/Bitcamp/README.md)
   - [Servlet&JSP 프로그래밍](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/README.md)
 
 ## Spring
