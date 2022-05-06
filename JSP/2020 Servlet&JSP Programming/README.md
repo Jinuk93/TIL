@@ -10,13 +10,13 @@
 - [08. 서블릿 객체 생성과 실행 방법](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2001_10_docs/08_%EC%84%9C%EB%B8%94%EB%A6%BF%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EC%8B%A4%ED%96%89%20%EB%B0%A9%EB%B2%95.md)
 - [09. 서블릿(Servlet) 문자열 출력](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2001_10_docs/09_%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet)%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%9C%EB%A0%A5.md)
 - [10. 웹 개발을 위한 이클립스 IDE 준비하기](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2001_10_docs/10_%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%20IDE%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0.md)
+- [11. 이클립스를 이용한 서블릿 프로그래밍](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2011_20_docs/11_%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+- [12. 어노테이션을 이용한 URL 매핑](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2011_20_docs/12_%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20URL%20%EB%A7%A4%ED%95%91.md)
 
 
 <details>
   <summary>Servlet 11~20</summary>
     <ul>
-        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2011_20_docs/11_%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md">11. 이클립스를 이용한 서블릿 프로그래밍</a></li>
-      <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2011_20_docs/12_%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20URL%20%EB%A7%A4%ED%95%91.md">12. 어노테이션을 이용한 URL 매핑</a></li>
       <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2011_20_docs/12-1_%EB%A7%A4%ED%95%91(Mapping)%20Web.xml%EC%9D%B4%EC%9A%A9.md">12-1. 매핑(Mapping) Web.xml 이용</a></li>
       <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2011_20_docs/12-2_%EB%A7%A4%ED%95%91(Mapping)%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%20%EC%9D%B4%EC%9A%A9.md">12-2. 매핑(Mapping) 어노테이션 이용</a></li>
         <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/Servlet%2011_20_docs/13_%EC%84%9C%EB%B8%94%EB%A6%BF%20%EC%B6%9C%EB%A0%A5%20%ED%98%95%EC%8B%9D%EC%9D%84%20%EC%A7%80%EC%A0%95%ED%95%B4%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md">13. 서블릿 출력 형식을 지정해야 하는 이유</a></li>
@@ -53,24 +53,15 @@
 </details>
 
 ## JSP
-
-<details>
-  <summary>JSP 40~44</summary>
-    <ul>
-          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/40.%20JSP%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%20(Jasper%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D).md">40. JSP 시작하기 (Jasper를 이용한 서블릿 프로그래밍)</a></li>
-        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/41.%20JSP%EC%9D%98%20%EC%BD%94%EB%93%9C%20%EB%B8%94%EB%A1%9D.md">41. JSP의 코드 블록</a></li>
-        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/42.%20JSP%EC%9D%98%20%EB%82%B4%EC%9E%A5%EA%B0%9D%EC%B2%B4%20%EA%B0%84%EB%8B%A8%ED%9E%88%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md">42. JSP의 내장객체 간단히 알아보기</a></li>
-        <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/43.%20JSP%EB%A1%9C%20%EB%A7%8C%EB%93%9C%EB%8A%94%20Hello%20%EC%84%9C%EB%B8%94%EB%A6%BF.md">43. JSP로 만드는 Hello 서블릿</a></li>
-              <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/44.%20%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20JSP.md">44. 스파게티 코드를 만드는 JSP</a></li>
-   </ul>
-</details>
+- [40. JSP 시작하기 (Jasper를 이용한 서블릿 프로그래밍)](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/40.%20JSP%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%20(Jasper%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D).md)
+- [41. JSP의 코드 블록](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/40.%20JSP%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%20(Jasper%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D).md)
+- [42. JSP의 내장객체 간단히 알아보기](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/40.%20JSP%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%20(Jasper%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D).md)
+- [43. JSP로 만드는 Hello 서블릿](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/43.%20JSP%EB%A1%9C%20%EB%A7%8C%EB%93%9C%EB%8A%94%20Hello%20%EC%84%9C%EB%B8%94%EB%A6%BF.md)
+- [44. 스파게티 코드를 만드는 JSP](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/JSP%2040_44%20docs/44.%20%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20JSP.md)
 
 ## MVC
-
-MVC
-
-          <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/45.%20JSP%20MVC%20model1.md">45. JSP MVC model1</a></li>
-            <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/46.%20JSP%20MVC%20model1%EC%9D%84%20model2%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C.md">46. JSP MVC model1을 model2 방식으로</a></li>
-                  <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/47.%20View%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EC%B6%9C%20%ED%91%9C%ED%98%84%EC%8B%9D%20EL%20(Expression%20Language).md">47. View를 위한 데이터 추출 표현식 EL (Expression Language)</a></li>
-  <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/MVC%2045_49%20docs/48.%20EL%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%EC%86%8C.md">48. EL의 데이터 저장소</a></li>
-      <li><a href="https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/MVC%2045_49%20docs/49.%20EL%20%EC%97%B0%EC%82%B0%EC%9E%90.md">49. EL 연산자
+- [45. JSP MVC model1](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/45.%20JSP%20MVC%20model1.md)
+- [46. JSP MVC model1을 model2 방식으로](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/46.%20JSP%20MVC%20model1%EC%9D%84%20model2%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C.md)
+- [47. View를 위한 데이터 추출 표현식 EL (Expression Language)](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet&JSP%20Programming/docs/MVC%2045_49%20docs/47.%20View%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EC%B6%9C%20%ED%91%9C%ED%98%84%EC%8B%9D%20EL%20(Expression%20Language).md)
+- [48. EL의 데이터 저장소](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/MVC%2045_49%20docs/48.%20EL%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%EC%86%8C.md)
+- [49. EL 연산자](https://github.com/Jinuk93/TIL/blob/master/JSP/2020%20Servlet%26JSP%20Programming/docs/MVC%2045_49%20docs/49.%20EL%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
