@@ -17,5 +17,4 @@
 - [스프링 프레임워크 강의 ALL](https://github.com/Jinuk93/TIL/blob/master/Spring/Spring%20Framework%20ALL/README.md)
 
 ## Etc
-- [EunhaSoop Project](https://github.com/Jinuk93/TIL/blob/master/ETC/Study/EunhaSoop%20project%20review.md)
 - [Error](https://github.com/Jinuk93/TIL/blob/master/ETC/error/README.md)
